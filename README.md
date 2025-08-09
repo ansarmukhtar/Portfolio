@@ -14,7 +14,7 @@ This portfolio brings together a selection of my work from budgeting and forecas
 **Tools:** Power BI, DAX, Excel, SQL  
 An interactive report tracking revenue, costs, and variances by region, business unit, and product category. Includes month-over-month trends, variance analysis (absolute & %), and gross margin KPIs.
 
-![BvA Dashboard]Assets/bva_dashboard_Screenshort.png
+![BvA Dashboard](Assets/bva_dashboard_Screenshort.png)
 
 ---
 
