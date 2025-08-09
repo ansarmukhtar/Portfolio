@@ -1,9 +1,8 @@
 # Finance & Data Analytics Portfolio
+
 I am a results-driven finance and data analytics professional with a strong foundation in FP&A, controlling and business analysis. My expertise is in building practical, data-driven solutions such as interactive dashboards, driver-based models and SQL powered reports that help businesses monitor performance, forecast outcomes and make informed decisions. With a Master’s in International Business and hands-on experience across multiple tools and data environments, I focus on turning complex data into clear and actionable insights that support strategic growth.
 
-
-
-Hi, I’m Ansar Mukhtar, a Finance and data analytics professional with a Master’s in International Business and practical experience in FP&A, controlling, and business analysis.  
+Hi, I’m Ansar Mukhtar, a finance and data analytics professional with a Master’s in International Business and practical experience in FP&A, controlling, and business analysis.  
 
 I create financial models, dashboards, and analytical tools that turn raw numbers into clear, actionable insights.  
 This portfolio presents a selection of my work, covering budgeting and forecasting, Excel-based modeling, and SQL-driven financial reporting.
