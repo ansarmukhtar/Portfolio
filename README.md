@@ -1,45 +1,53 @@
-# Portfolio
 # Finance & Data Analytics Portfolio
 
-Hi, I’m Ansar Mukhtar.  
-I’m a finance and data analytics professional with a Master’s in International Business and hands-on experience in FP&A, controlling, and business analysis. Over the past few years, I’ve built financial models, dashboards, and analysis tools that turn raw data into clear, decision-ready insights.  
+Hi, I’m Ansar Mukhtar, a finance and data analytics professional with a Master’s in International Business and practical experience in FP&A, controlling, and business analysis.  
 
-This portfolio brings together a selection of my work from budgeting and forecasting to SQL-driven financial reporting to show how I approach real world business problems.
+I create financial models, dashboards, and analytical tools that turn raw numbers into clear, actionable insights.  
+This portfolio presents a selection of my work, covering budgeting and forecasting, Excel-based modeling, and SQL-driven financial reporting.
 
 ---
 
 ## 📂 Projects
 
-### 1. Budget vs Actuals Dashboard
+### 1. Budget vs Actuals Dashboard  
 **Tools:** Power BI, DAX, Excel, SQL  
-An interactive report tracking revenue, costs, and variances by region, business unit, and product category. Includes month-over-month trends, variance analysis (absolute & %), and gross margin KPIs.
 
-![BvA Dashboard](Assets/bva_dashboard_Screenshort.png)
+This interactive dashboard tracks revenue, costs, and variances by region, business unit, and product category.  
+It includes month-over-month trends, variance analysis in both absolute and percentage terms, and gross margin KPIs.  
+Users can filter results using dynamic slicers for time periods, regions, and product categories.
 
----
-
-### 2. Driver-Based Cash-Flow Model
-**Tools:** Excel (Formulas, Scenarios)  
-A 12-month cash-flow forecast driven by growth, COGS %, and working-capital assumptions (DSO/DPO/Inventory Days). Includes a scenario sheet to test changes in sales growth or payment terms.
-
-![Cash-Flow Model](Assets/cashflow_model_screenshot.png) 
-[Download Model](Projects/cashflow_excel/driver_based_cashflow_model.xlsx) *(link to Excel file)*
+![BvA Dashboard](Assets/bva_dashboard_Screenshort.png)  
 
 ---
 
-### 3. SQL Finance Mart
+### 2. Driver-Based Cash-Flow Model  
+**Tools:** Excel (Formulas, Scenario Analysis)  
+
+A 12-month cash-flow forecast that uses growth rates, COGS percentages, and working-capital assumptions such as DSO, DPO, and inventory days.  
+It features a scenario sheet that allows changes in sales growth or payment terms to be tested easily, with automatic updates to forecast results.  
+The model outputs the monthly net cash position and ending balance.
+
+![Cash-Flow Model](Assets/cashflow_model_screenshot.png)  
+
+[Download Model](Projects/cashflow_excel/driver_based_cashflow_model.xlsx)
+
+---
+
+### 3. SQL Finance Mart  
 **Tools:** SQLite, SQL, Data Modeling  
-A compact database for finance analytics, containing orders, customers, products, and GL transactions. Demonstrates P&L by month, top customers, and revenue by region with SQL queries.  
 
-[View Queries](Projects/sql_finance_mart) *(link to GitHub folder with SQL files)*
+A small but complete database designed for finance analytics, containing tables for orders, customers, products, and general ledger transactions.  
+The project demonstrates producing P&L by month, identifying top customers, and calculating revenue by region, with queries and results that can feed directly into BI tools.
+
+[View Queries](Projects/sql_finance_mart)
 
 ---
 
 ## 📬 Contact
-- **Email:** ansarsandhu74@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ansarmukhtar/  
-- **GitHub:** https://github.com/ansarmukhtar/Portfolio
+**Email:** ansarsandhu74@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/ansarmukhtar/  
+**GitHub:** https://github.com/ansarmukhtar/Portfolio  
 
 ---
 
-*This portfolio is based on anonymised and synthetic datasets for demonstration purposes.*
+*All datasets are anonymised or synthetic and used for demonstration purposes only.*
