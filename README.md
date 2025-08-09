@@ -30,7 +30,7 @@ A 12-month cash-flow forecast driven by growth, COGS %, and working-capital assu
 **Tools:** SQLite, SQL, Data Modeling  
 A compact database for finance analytics, containing orders, customers, products, and GL transactions. Demonstrates P&L by month, top customers, and revenue by region with SQL queries.  
 
-[View Queries](#) *(link to GitHub folder with SQL files)*
+[View Queries](Projects/sql_finance_mart) *(link to GitHub folder with SQL files)*
 
 ---
 
