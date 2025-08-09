@@ -35,9 +35,9 @@ A compact database for finance analytics, containing orders, customers, products
 ---
 
 ## 📬 Contact
-- **Email:** [you@example.com](mailto:you@example.com)  
-- **LinkedIn:** [linkedin.com/in/your-handle](#)  
-- **GitHub:** [github.com/your-handle](#)
+- **Email:** ansarsandhu74@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/ansarmukhtar/  
+- **GitHub:** https://github.com/ansarmukhtar/Portfolio
 
 ---
 
