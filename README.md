@@ -20,8 +20,9 @@ An interactive report tracking revenue, costs, and variances by region, business
 
 ### 2. Driver-Based Cash-Flow Model
 **Tools:** Excel (Formulas, Scenarios)  
-A 12-month cash-flow forecast driven by growth, COGS %, and working-capital assumptions (DSO/DPO/Inventory Days). Includes a scenario sheet to test changes in sales growth or payment terms.  
+A 12-month cash-flow forecast driven by growth, COGS %, and working-capital assumptions (DSO/DPO/Inventory Days). Includes a scenario sheet to test changes in sales growth or payment terms.
 
+![Cash-Flow Model](Assets/cashflow_model_screenshot.png) 
 [Download Model](Projects/cashflow_excel/driver_based_cashflow_model.xlsx) *(link to Excel file)*
 
 ---
