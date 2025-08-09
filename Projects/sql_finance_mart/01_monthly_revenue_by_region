@@ -1,0 +1,7 @@
+SELECT date(strftime('%Y-%m-01', order_date)) AS month,
+       c.region,
+       SUM(o.revenue) AS revenue
+FROM orders o
+JOIN customers c USING(customer_id)
+GROUP BY month, c.region
+ORDER BY month, c.region;

@@ -1,0 +1,1921 @@
+date,account,account_name,region,business_unit,amount
+2024-01-01,4000,Revenue,DACH,Online,296829.5
+2024-01-01,5000,COGS,DACH,Online,-106621.25
+2024-01-01,6000,Sales & Marketing,DACH,Online,-35418.46
+2024-01-01,6100,R&D,DACH,Online,-23612.3
+2024-01-01,6200,G&A,DACH,Online,-19676.92
+2024-01-01,4000,Revenue,DACH,Enterprise,279954.98
+2024-01-01,5000,COGS,DACH,Enterprise,-95458.85
+2024-01-01,6000,Sales & Marketing,DACH,Enterprise,-27210.7
+2024-01-01,6100,R&D,DACH,Enterprise,-18140.47
+2024-01-01,6200,G&A,DACH,Enterprise,-15117.06
+2024-01-01,4000,Revenue,DACH,Online,176241.56
+2024-01-01,5000,COGS,DACH,Online,-79956.41
+2024-01-01,6000,Sales & Marketing,DACH,Online,-37075.1
+2024-01-01,6100,R&D,DACH,Online,-24716.73
+2024-01-01,6200,G&A,DACH,Online,-20597.28
+2024-01-01,4000,Revenue,DACH,Enterprise,150861.96
+2024-01-01,5000,COGS,DACH,Enterprise,-72049.86
+2024-01-01,6000,Sales & Marketing,DACH,Enterprise,-35850.04
+2024-01-01,6100,R&D,DACH,Enterprise,-23900.02
+2024-01-01,6200,G&A,DACH,Enterprise,-19916.69
+2024-01-01,4000,Revenue,France,Online,234123.9
+2024-01-01,5000,COGS,France,Online,-94245.36
+2024-01-01,6000,Sales & Marketing,France,Online,-27729.72
+2024-01-01,6100,R&D,France,Online,-18486.48
+2024-01-01,6200,G&A,France,Online,-15405.4
+2024-01-01,4000,Revenue,France,Enterprise,201069.8
+2024-01-01,5000,COGS,France,Enterprise,-77889.42
+2024-01-01,6000,Sales & Marketing,France,Enterprise,-22435.93
+2024-01-01,6100,R&D,France,Enterprise,-14957.29
+2024-01-01,6200,G&A,France,Enterprise,-12464.41
+2024-01-01,4000,Revenue,France,Online,147294.77
+2024-01-01,5000,COGS,France,Online,-67608.52
+2024-01-01,6000,Sales & Marketing,France,Online,-29260.77
+2024-01-01,6100,R&D,France,Online,-19507.18
+2024-01-01,6200,G&A,France,Online,-16255.98
+2024-01-01,4000,Revenue,France,Enterprise,122003.15
+2024-01-01,5000,COGS,France,Enterprise,-59104.52
+2024-01-01,6000,Sales & Marketing,France,Enterprise,-26666.22
+2024-01-01,6100,R&D,France,Enterprise,-17777.48
+2024-01-01,6200,G&A,France,Enterprise,-14814.57
+2024-01-01,4000,Revenue,Italy,Online,193125.81
+2024-01-01,5000,COGS,Italy,Online,-72027.69
+2024-01-01,6000,Sales & Marketing,Italy,Online,-23688.04
+2024-01-01,6100,R&D,Italy,Online,-15792.03
+2024-01-01,6200,G&A,Italy,Online,-13160.02
+2024-01-01,4000,Revenue,Italy,Enterprise,184151.18
+2024-01-01,5000,COGS,Italy,Enterprise,-71497.55
+2024-01-01,6000,Sales & Marketing,Italy,Enterprise,-21366.89
+2024-01-01,6100,R&D,Italy,Enterprise,-14244.59
+2024-01-01,6200,G&A,Italy,Enterprise,-11870.49
+2024-01-01,4000,Revenue,Italy,Online,134214.63
+2024-01-01,5000,COGS,Italy,Online,-60647.79
+2024-01-01,6000,Sales & Marketing,Italy,Online,-24210.47
+2024-01-01,6100,R&D,Italy,Online,-16140.32
+2024-01-01,6200,G&A,Italy,Online,-13450.26
+2024-01-01,4000,Revenue,Italy,Enterprise,102840.89
+2024-01-01,5000,COGS,Italy,Enterprise,-48573.77
+2024-01-01,6000,Sales & Marketing,Italy,Enterprise,-25022.79
+2024-01-01,6100,R&D,Italy,Enterprise,-16681.86
+2024-01-01,6200,G&A,Italy,Enterprise,-13901.55
+2024-01-01,4000,Revenue,Spain,Online,208445.08
+2024-01-01,5000,COGS,Spain,Online,-75706.6
+2024-01-01,6000,Sales & Marketing,Spain,Online,-22470.24
+2024-01-01,6100,R&D,Spain,Online,-14980.16
+2024-01-01,6200,G&A,Spain,Online,-12483.47
+2024-01-01,4000,Revenue,Spain,Enterprise,198247.99
+2024-01-01,5000,COGS,Spain,Enterprise,-78281.21
+2024-01-01,6000,Sales & Marketing,Spain,Enterprise,-22820.3
+2024-01-01,6100,R&D,Spain,Enterprise,-15213.53
+2024-01-01,6200,G&A,Spain,Enterprise,-12677.94
+2024-01-01,4000,Revenue,Spain,Online,120899.62
+2024-01-01,5000,COGS,Spain,Online,-56175.19
+2024-01-01,6000,Sales & Marketing,Spain,Online,-26979.52
+2024-01-01,6100,R&D,Spain,Online,-17986.35
+2024-01-01,6200,G&A,Spain,Online,-14988.62
+2024-01-01,4000,Revenue,Spain,Enterprise,115982.13
+2024-01-01,5000,COGS,Spain,Enterprise,-55373.18
+2024-01-01,6000,Sales & Marketing,Spain,Enterprise,-24734.67
+2024-01-01,6100,R&D,Spain,Enterprise,-16489.78
+2024-01-01,6200,G&A,Spain,Enterprise,-13741.48
+2024-02-01,4000,Revenue,DACH,Online,315945.07
+2024-02-01,5000,COGS,DACH,Online,-120486.15
+2024-02-01,6000,Sales & Marketing,DACH,Online,-34185.32
+2024-02-01,6100,R&D,DACH,Online,-22790.21
+2024-02-01,6200,G&A,DACH,Online,-18991.84
+2024-02-01,4000,Revenue,DACH,Enterprise,286434.17
+2024-02-01,5000,COGS,DACH,Enterprise,-100497.4
+2024-02-01,6000,Sales & Marketing,DACH,Enterprise,-29598.2
+2024-02-01,6100,R&D,DACH,Enterprise,-19732.13
+2024-02-01,6200,G&A,DACH,Enterprise,-16443.44
+2024-02-01,4000,Revenue,DACH,Online,177006.68
+2024-02-01,5000,COGS,DACH,Online,-79161.36
+2024-02-01,6000,Sales & Marketing,DACH,Online,-36307.83
+2024-02-01,6100,R&D,DACH,Online,-24205.22
+2024-02-01,6200,G&A,DACH,Online,-20171.01
+2024-02-01,4000,Revenue,DACH,Enterprise,180441.16
+2024-02-01,5000,COGS,DACH,Enterprise,-79878.3
+2024-02-01,6000,Sales & Marketing,DACH,Enterprise,-36364.35
+2024-02-01,6100,R&D,DACH,Enterprise,-24242.9
+2024-02-01,6200,G&A,DACH,Enterprise,-20202.42
+2024-02-01,4000,Revenue,France,Online,218340.66
+2024-02-01,5000,COGS,France,Online,-81507.07
+2024-02-01,6000,Sales & Marketing,France,Online,-27078.03
+2024-02-01,6100,R&D,France,Online,-18052.02
+2024-02-01,6200,G&A,France,Online,-15043.35
+2024-02-01,4000,Revenue,France,Enterprise,228550.34
+2024-02-01,5000,COGS,France,Enterprise,-90100.15
+2024-02-01,6000,Sales & Marketing,France,Enterprise,-25842.27
+2024-02-01,6100,R&D,France,Enterprise,-17228.18
+2024-02-01,6200,G&A,France,Enterprise,-14356.82
+2024-02-01,4000,Revenue,France,Online,142668.91
+2024-02-01,5000,COGS,France,Online,-64308.44
+2024-02-01,6000,Sales & Marketing,France,Online,-31738.55
+2024-02-01,6100,R&D,France,Online,-21159.03
+2024-02-01,6200,G&A,France,Online,-17632.53
+2024-02-01,4000,Revenue,France,Enterprise,130950.23
+2024-02-01,5000,COGS,France,Enterprise,-56896.08
+2024-02-01,6000,Sales & Marketing,France,Enterprise,-24552.1
+2024-02-01,6100,R&D,France,Enterprise,-16368.07
+2024-02-01,6200,G&A,France,Enterprise,-13640.06
+2024-02-01,4000,Revenue,Italy,Online,195045.26
+2024-02-01,5000,COGS,Italy,Online,-76056.58
+2024-02-01,6000,Sales & Marketing,Italy,Online,-22979.38
+2024-02-01,6100,R&D,Italy,Online,-15319.59
+2024-02-01,6200,G&A,Italy,Online,-12766.32
+2024-02-01,4000,Revenue,Italy,Enterprise,195441.79
+2024-02-01,5000,COGS,Italy,Enterprise,-72597.82
+2024-02-01,6000,Sales & Marketing,Italy,Enterprise,-20916.97
+2024-02-01,6100,R&D,Italy,Enterprise,-13944.65
+2024-02-01,6200,G&A,Italy,Enterprise,-11620.54
+2024-02-01,4000,Revenue,Italy,Online,128509.31
+2024-02-01,5000,COGS,Italy,Online,-58319.2
+2024-02-01,6000,Sales & Marketing,Italy,Online,-26167.5
+2024-02-01,6100,R&D,Italy,Online,-17445.0
+2024-02-01,6200,G&A,Italy,Online,-14537.5
+2024-02-01,4000,Revenue,Italy,Enterprise,108128.17
+2024-02-01,5000,COGS,Italy,Enterprise,-48953.83
+2024-02-01,6000,Sales & Marketing,Italy,Enterprise,-22249.13
+2024-02-01,6100,R&D,Italy,Enterprise,-14832.75
+2024-02-01,6200,G&A,Italy,Enterprise,-12360.63
+2024-02-01,4000,Revenue,Spain,Online,202893.8
+2024-02-01,5000,COGS,Spain,Online,-79075.72
+2024-02-01,6000,Sales & Marketing,Spain,Online,-23153.61
+2024-02-01,6100,R&D,Spain,Online,-15435.74
+2024-02-01,6200,G&A,Spain,Online,-12863.11
+2024-02-01,4000,Revenue,Spain,Enterprise,198855.11
+2024-02-01,5000,COGS,Spain,Enterprise,-77476.92
+2024-02-01,6000,Sales & Marketing,Spain,Enterprise,-22651.25
+2024-02-01,6100,R&D,Spain,Enterprise,-15100.83
+2024-02-01,6200,G&A,Spain,Enterprise,-12584.03
+2024-02-01,4000,Revenue,Spain,Online,136381.82
+2024-02-01,5000,COGS,Spain,Online,-62467.0
+2024-02-01,6000,Sales & Marketing,Spain,Online,-25824.82
+2024-02-01,6100,R&D,Spain,Online,-17216.55
+2024-02-01,6200,G&A,Spain,Online,-14347.12
+2024-02-01,4000,Revenue,Spain,Enterprise,118653.43
+2024-02-01,5000,COGS,Spain,Enterprise,-50576.42
+2024-02-01,6000,Sales & Marketing,Spain,Enterprise,-21486.81
+2024-02-01,6100,R&D,Spain,Enterprise,-14324.54
+2024-02-01,6200,G&A,Spain,Enterprise,-11937.12
+2024-03-01,4000,Revenue,DACH,Online,283556.51
+2024-03-01,5000,COGS,DACH,Online,-102095.96
+2024-03-01,6000,Sales & Marketing,DACH,Online,-34481.1
+2024-03-01,6100,R&D,DACH,Online,-22987.4
+2024-03-01,6200,G&A,DACH,Online,-19156.17
+2024-03-01,4000,Revenue,DACH,Enterprise,264787.95
+2024-03-01,5000,COGS,DACH,Enterprise,-98616.76
+2024-03-01,6000,Sales & Marketing,DACH,Enterprise,-33532.12
+2024-03-01,6100,R&D,DACH,Enterprise,-22354.75
+2024-03-01,6200,G&A,DACH,Enterprise,-18628.96
+2024-03-01,4000,Revenue,DACH,Online,180849.75
+2024-03-01,5000,COGS,DACH,Online,-85858.47
+2024-03-01,6000,Sales & Marketing,DACH,Online,-34352.15
+2024-03-01,6100,R&D,DACH,Online,-22901.44
+2024-03-01,6200,G&A,DACH,Online,-19084.53
+2024-03-01,4000,Revenue,DACH,Enterprise,165929.19
+2024-03-01,5000,COGS,DACH,Enterprise,-73174.7
+2024-03-01,6000,Sales & Marketing,DACH,Enterprise,-32834.61
+2024-03-01,6100,R&D,DACH,Enterprise,-21889.74
+2024-03-01,6200,G&A,DACH,Enterprise,-18241.45
+2024-03-01,4000,Revenue,France,Online,258823.12
+2024-03-01,5000,COGS,France,Online,-89411.37
+2024-03-01,6000,Sales & Marketing,France,Online,-27658.97
+2024-03-01,6100,R&D,France,Online,-18439.31
+2024-03-01,6200,G&A,France,Online,-15366.09
+2024-03-01,4000,Revenue,France,Enterprise,227195.17
+2024-03-01,5000,COGS,France,Enterprise,-83634.4
+2024-03-01,6000,Sales & Marketing,France,Enterprise,-21488.86
+2024-03-01,6100,R&D,France,Enterprise,-14325.91
+2024-03-01,6200,G&A,France,Enterprise,-11938.26
+2024-03-01,4000,Revenue,France,Online,148479.82
+2024-03-01,5000,COGS,France,Online,-66728.34
+2024-03-01,6000,Sales & Marketing,France,Online,-30252.84
+2024-03-01,6100,R&D,France,Online,-20168.56
+2024-03-01,6200,G&A,France,Online,-16807.13
+2024-03-01,4000,Revenue,France,Enterprise,134576.22
+2024-03-01,5000,COGS,France,Enterprise,-66216.29
+2024-03-01,6000,Sales & Marketing,France,Enterprise,-26482.99
+2024-03-01,6100,R&D,France,Enterprise,-17655.33
+2024-03-01,6200,G&A,France,Enterprise,-14712.77
+2024-03-01,4000,Revenue,Italy,Online,196578.32
+2024-03-01,5000,COGS,Italy,Online,-75404.6
+2024-03-01,6000,Sales & Marketing,Italy,Online,-23120.37
+2024-03-01,6100,R&D,Italy,Online,-15413.58
+2024-03-01,6200,G&A,Italy,Online,-12844.65
+2024-03-01,4000,Revenue,Italy,Enterprise,205927.36
+2024-03-01,5000,COGS,Italy,Enterprise,-81691.84
+2024-03-01,6000,Sales & Marketing,Italy,Enterprise,-21244.69
+2024-03-01,6100,R&D,Italy,Enterprise,-14163.13
+2024-03-01,6200,G&A,Italy,Enterprise,-11802.61
+2024-03-01,4000,Revenue,Italy,Online,136697.07
+2024-03-01,5000,COGS,Italy,Online,-59630.64
+2024-03-01,6000,Sales & Marketing,Italy,Online,-23952.96
+2024-03-01,6100,R&D,Italy,Online,-15968.64
+2024-03-01,6200,G&A,Italy,Online,-13307.2
+2024-03-01,4000,Revenue,Italy,Enterprise,107888.88
+2024-03-01,5000,COGS,Italy,Enterprise,-48787.76
+2024-03-01,6000,Sales & Marketing,Italy,Enterprise,-20422.4
+2024-03-01,6100,R&D,Italy,Enterprise,-13614.94
+2024-03-01,6200,G&A,Italy,Enterprise,-11345.78
+2024-03-01,4000,Revenue,Spain,Online,230211.06
+2024-03-01,5000,COGS,Spain,Online,-86457.04
+2024-03-01,6000,Sales & Marketing,Spain,Online,-21226.35
+2024-03-01,6100,R&D,Spain,Online,-14150.9
+2024-03-01,6200,G&A,Spain,Online,-11792.42
+2024-03-01,4000,Revenue,Spain,Enterprise,189315.56
+2024-03-01,5000,COGS,Spain,Enterprise,-73126.97
+2024-03-01,6000,Sales & Marketing,Spain,Enterprise,-23336.39
+2024-03-01,6100,R&D,Spain,Enterprise,-15557.59
+2024-03-01,6200,G&A,Spain,Enterprise,-12964.66
+2024-03-01,4000,Revenue,Spain,Online,148996.62
+2024-03-01,5000,COGS,Spain,Online,-77221.56
+2024-03-01,6000,Sales & Marketing,Spain,Online,-27616.17
+2024-03-01,6100,R&D,Spain,Online,-18410.78
+2024-03-01,6200,G&A,Spain,Online,-15342.32
+2024-03-01,4000,Revenue,Spain,Enterprise,113778.33
+2024-03-01,5000,COGS,Spain,Enterprise,-47486.42
+2024-03-01,6000,Sales & Marketing,Spain,Enterprise,-24820.43
+2024-03-01,6100,R&D,Spain,Enterprise,-16546.95
+2024-03-01,6200,G&A,Spain,Enterprise,-13789.13
+2024-04-01,4000,Revenue,DACH,Online,288771.34
+2024-04-01,5000,COGS,DACH,Online,-107334.24
+2024-04-01,6000,Sales & Marketing,DACH,Online,-31776.37
+2024-04-01,6100,R&D,DACH,Online,-21184.24
+2024-04-01,6200,G&A,DACH,Online,-17653.54
+2024-04-01,4000,Revenue,DACH,Enterprise,273649.43
+2024-04-01,5000,COGS,DACH,Enterprise,-109820.88
+2024-04-01,6000,Sales & Marketing,DACH,Enterprise,-30756.63
+2024-04-01,6100,R&D,DACH,Enterprise,-20504.42
+2024-04-01,6200,G&A,DACH,Enterprise,-17087.01
+2024-04-01,4000,Revenue,DACH,Online,180413.61
+2024-04-01,5000,COGS,DACH,Online,-79253.34
+2024-04-01,6000,Sales & Marketing,DACH,Online,-32151.19
+2024-04-01,6100,R&D,DACH,Online,-21434.13
+2024-04-01,6200,G&A,DACH,Online,-17861.77
+2024-04-01,4000,Revenue,DACH,Enterprise,160756.84
+2024-04-01,5000,COGS,DACH,Enterprise,-73775.23
+2024-04-01,6000,Sales & Marketing,DACH,Enterprise,-38523.41
+2024-04-01,6100,R&D,DACH,Enterprise,-25682.27
+2024-04-01,6200,G&A,DACH,Enterprise,-21401.9
+2024-04-01,4000,Revenue,France,Online,244761.4
+2024-04-01,5000,COGS,France,Online,-97820.07
+2024-04-01,6000,Sales & Marketing,France,Online,-25662.31
+2024-04-01,6100,R&D,France,Online,-17108.2
+2024-04-01,6200,G&A,France,Online,-14256.84
+2024-04-01,4000,Revenue,France,Enterprise,205087.57
+2024-04-01,5000,COGS,France,Enterprise,-73974.61
+2024-04-01,6000,Sales & Marketing,France,Enterprise,-22890.16
+2024-04-01,6100,R&D,France,Enterprise,-15260.11
+2024-04-01,6200,G&A,France,Enterprise,-12716.75
+2024-04-01,4000,Revenue,France,Online,164327.2
+2024-04-01,5000,COGS,France,Online,-72890.99
+2024-04-01,6000,Sales & Marketing,France,Online,-31692.25
+2024-04-01,6100,R&D,France,Online,-21128.17
+2024-04-01,6200,G&A,France,Online,-17606.81
+2024-04-01,4000,Revenue,France,Enterprise,125294.08
+2024-04-01,5000,COGS,France,Enterprise,-59969.69
+2024-04-01,6000,Sales & Marketing,France,Enterprise,-27831.49
+2024-04-01,6100,R&D,France,Enterprise,-18554.33
+2024-04-01,6200,G&A,France,Enterprise,-15461.94
+2024-04-01,4000,Revenue,Italy,Online,204493.49
+2024-04-01,5000,COGS,Italy,Online,-77540.81
+2024-04-01,6000,Sales & Marketing,Italy,Online,-21530.33
+2024-04-01,6100,R&D,Italy,Online,-14353.55
+2024-04-01,6200,G&A,Italy,Online,-11961.3
+2024-04-01,4000,Revenue,Italy,Enterprise,192689.7
+2024-04-01,5000,COGS,Italy,Enterprise,-71468.67
+2024-04-01,6000,Sales & Marketing,Italy,Enterprise,-18629.81
+2024-04-01,6100,R&D,Italy,Enterprise,-12419.87
+2024-04-01,6200,G&A,Italy,Enterprise,-10349.9
+2024-04-01,4000,Revenue,Italy,Online,114363.03
+2024-04-01,5000,COGS,Italy,Online,-53001.75
+2024-04-01,6000,Sales & Marketing,Italy,Online,-28434.13
+2024-04-01,6100,R&D,Italy,Online,-18956.09
+2024-04-01,6200,G&A,Italy,Online,-15796.74
+2024-04-01,4000,Revenue,Italy,Enterprise,113681.06
+2024-04-01,5000,COGS,Italy,Enterprise,-52023.55
+2024-04-01,6000,Sales & Marketing,Italy,Enterprise,-23474.78
+2024-04-01,6100,R&D,Italy,Enterprise,-15649.85
+2024-04-01,6200,G&A,Italy,Enterprise,-13041.54
+2024-04-01,4000,Revenue,Spain,Online,235704.46
+2024-04-01,5000,COGS,Spain,Online,-90601.88
+2024-04-01,6000,Sales & Marketing,Spain,Online,-23266.15
+2024-04-01,6100,R&D,Spain,Online,-15510.76
+2024-04-01,6200,G&A,Spain,Online,-12925.64
+2024-04-01,4000,Revenue,Spain,Enterprise,211895.73
+2024-04-01,5000,COGS,Spain,Enterprise,-82337.41
+2024-04-01,6000,Sales & Marketing,Spain,Enterprise,-24556.96
+2024-04-01,6100,R&D,Spain,Enterprise,-16371.31
+2024-04-01,6200,G&A,Spain,Enterprise,-13642.75
+2024-04-01,4000,Revenue,Spain,Online,132587.89
+2024-04-01,5000,COGS,Spain,Online,-57743.43
+2024-04-01,6000,Sales & Marketing,Spain,Online,-23804.33
+2024-04-01,6100,R&D,Spain,Online,-15869.55
+2024-04-01,6200,G&A,Spain,Online,-13224.63
+2024-04-01,4000,Revenue,Spain,Enterprise,131033.47
+2024-04-01,5000,COGS,Spain,Enterprise,-64792.56
+2024-04-01,6000,Sales & Marketing,Spain,Enterprise,-23951.02
+2024-04-01,6100,R&D,Spain,Enterprise,-15967.34
+2024-04-01,6200,G&A,Spain,Enterprise,-13306.12
+2024-05-01,4000,Revenue,DACH,Online,284798.05
+2024-05-01,5000,COGS,DACH,Online,-116547.59
+2024-05-01,6000,Sales & Marketing,DACH,Online,-30453.37
+2024-05-01,6100,R&D,DACH,Online,-20302.24
+2024-05-01,6200,G&A,DACH,Online,-16918.54
+2024-05-01,4000,Revenue,DACH,Enterprise,250773.84
+2024-05-01,5000,COGS,DACH,Enterprise,-98520.65
+2024-05-01,6000,Sales & Marketing,DACH,Enterprise,-29416.11
+2024-05-01,6100,R&D,DACH,Enterprise,-19610.74
+2024-05-01,6200,G&A,DACH,Enterprise,-16342.28
+2024-05-01,4000,Revenue,DACH,Online,174846.25
+2024-05-01,5000,COGS,DACH,Online,-79857.73
+2024-05-01,6000,Sales & Marketing,DACH,Online,-38127.6
+2024-05-01,6100,R&D,DACH,Online,-25418.4
+2024-05-01,6200,G&A,DACH,Online,-21182.0
+2024-05-01,4000,Revenue,DACH,Enterprise,172427.38
+2024-05-01,5000,COGS,DACH,Enterprise,-79628.98
+2024-05-01,6000,Sales & Marketing,DACH,Enterprise,-35488.63
+2024-05-01,6100,R&D,DACH,Enterprise,-23659.09
+2024-05-01,6200,G&A,DACH,Enterprise,-19715.91
+2024-05-01,4000,Revenue,France,Online,204513.99
+2024-05-01,5000,COGS,France,Online,-77516.05
+2024-05-01,6000,Sales & Marketing,France,Online,-24926.84
+2024-05-01,6100,R&D,France,Online,-16617.89
+2024-05-01,6200,G&A,France,Online,-13848.24
+2024-05-01,4000,Revenue,France,Enterprise,196496.7
+2024-05-01,5000,COGS,France,Enterprise,-71217.66
+2024-05-01,6000,Sales & Marketing,France,Enterprise,-23650.47
+2024-05-01,6100,R&D,France,Enterprise,-15766.98
+2024-05-01,6200,G&A,France,Enterprise,-13139.15
+2024-05-01,4000,Revenue,France,Online,147609.19
+2024-05-01,5000,COGS,France,Online,-63984.47
+2024-05-01,6000,Sales & Marketing,France,Online,-29772.78
+2024-05-01,6100,R&D,France,Online,-19848.52
+2024-05-01,6200,G&A,France,Online,-16540.43
+2024-05-01,4000,Revenue,France,Enterprise,123504.82
+2024-05-01,5000,COGS,France,Enterprise,-56002.83
+2024-05-01,6000,Sales & Marketing,France,Enterprise,-29165.96
+2024-05-01,6100,R&D,France,Enterprise,-19443.97
+2024-05-01,6200,G&A,France,Enterprise,-16203.31
+2024-05-01,4000,Revenue,Italy,Online,204619.91
+2024-05-01,5000,COGS,Italy,Online,-83228.73
+2024-05-01,6000,Sales & Marketing,Italy,Online,-22439.66
+2024-05-01,6100,R&D,Italy,Online,-14959.78
+2024-05-01,6200,G&A,Italy,Online,-12466.48
+2024-05-01,4000,Revenue,Italy,Enterprise,172675.47
+2024-05-01,5000,COGS,Italy,Enterprise,-64843.58
+2024-05-01,6000,Sales & Marketing,Italy,Enterprise,-21055.7
+2024-05-01,6100,R&D,Italy,Enterprise,-14037.13
+2024-05-01,6200,G&A,Italy,Enterprise,-11697.61
+2024-05-01,4000,Revenue,Italy,Online,120192.01
+2024-05-01,5000,COGS,Italy,Online,-52681.63
+2024-05-01,6000,Sales & Marketing,Italy,Online,-25427.75
+2024-05-01,6100,R&D,Italy,Online,-16951.84
+2024-05-01,6200,G&A,Italy,Online,-14126.53
+2024-05-01,4000,Revenue,Italy,Enterprise,109600.56
+2024-05-01,5000,COGS,Italy,Enterprise,-55934.59
+2024-05-01,6000,Sales & Marketing,Italy,Enterprise,-26395.89
+2024-05-01,6100,R&D,Italy,Enterprise,-17597.26
+2024-05-01,6200,G&A,Italy,Enterprise,-14664.38
+2024-05-01,4000,Revenue,Spain,Online,199135.28
+2024-05-01,5000,COGS,Spain,Online,-74526.84
+2024-05-01,6000,Sales & Marketing,Spain,Online,-21240.52
+2024-05-01,6100,R&D,Spain,Online,-14160.34
+2024-05-01,6200,G&A,Spain,Online,-11800.29
+2024-05-01,4000,Revenue,Spain,Enterprise,184037.59
+2024-05-01,5000,COGS,Spain,Enterprise,-71095.95
+2024-05-01,6000,Sales & Marketing,Spain,Enterprise,-23979.76
+2024-05-01,6100,R&D,Spain,Enterprise,-15986.51
+2024-05-01,6200,G&A,Spain,Enterprise,-13322.09
+2024-05-01,4000,Revenue,Spain,Online,120419.28
+2024-05-01,5000,COGS,Spain,Online,-53817.43
+2024-05-01,6000,Sales & Marketing,Spain,Online,-22138.24
+2024-05-01,6100,R&D,Spain,Online,-14758.82
+2024-05-01,6200,G&A,Spain,Online,-12299.02
+2024-05-01,4000,Revenue,Spain,Enterprise,113362.68
+2024-05-01,5000,COGS,Spain,Enterprise,-49738.07
+2024-05-01,6000,Sales & Marketing,Spain,Enterprise,-23270.77
+2024-05-01,6100,R&D,Spain,Enterprise,-15513.85
+2024-05-01,6200,G&A,Spain,Enterprise,-12928.2
+2024-06-01,4000,Revenue,DACH,Online,260531.8
+2024-06-01,5000,COGS,DACH,Online,-98510.92
+2024-06-01,6000,Sales & Marketing,DACH,Online,-28714.09
+2024-06-01,6100,R&D,DACH,Online,-19142.73
+2024-06-01,6200,G&A,DACH,Online,-15952.27
+2024-06-01,4000,Revenue,DACH,Enterprise,227994.32
+2024-06-01,5000,COGS,DACH,Enterprise,-96346.97
+2024-06-01,6000,Sales & Marketing,DACH,Enterprise,-27246.56
+2024-06-01,6100,R&D,DACH,Enterprise,-18164.38
+2024-06-01,6200,G&A,DACH,Enterprise,-15136.98
+2024-06-01,4000,Revenue,DACH,Online,154141.82
+2024-06-01,5000,COGS,DACH,Online,-76568.14
+2024-06-01,6000,Sales & Marketing,DACH,Online,-45753.05
+2024-06-01,6100,R&D,DACH,Online,-30502.03
+2024-06-01,6200,G&A,DACH,Online,-25418.36
+2024-06-01,4000,Revenue,DACH,Enterprise,139455.9
+2024-06-01,5000,COGS,DACH,Enterprise,-63122.62
+2024-06-01,6000,Sales & Marketing,DACH,Enterprise,-34672.2
+2024-06-01,6100,R&D,DACH,Enterprise,-23114.8
+2024-06-01,6200,G&A,DACH,Enterprise,-19262.33
+2024-06-01,4000,Revenue,France,Online,242818.81
+2024-06-01,5000,COGS,France,Online,-87478.6
+2024-06-01,6000,Sales & Marketing,France,Online,-26205.5
+2024-06-01,6100,R&D,France,Online,-17470.33
+2024-06-01,6200,G&A,France,Online,-14558.61
+2024-06-01,4000,Revenue,France,Enterprise,209328.05
+2024-06-01,5000,COGS,France,Enterprise,-81364.83
+2024-06-01,6000,Sales & Marketing,France,Enterprise,-23568.75
+2024-06-01,6100,R&D,France,Enterprise,-15712.5
+2024-06-01,6200,G&A,France,Enterprise,-13093.75
+2024-06-01,4000,Revenue,France,Online,130940.12
+2024-06-01,5000,COGS,France,Online,-56631.88
+2024-06-01,6000,Sales & Marketing,France,Online,-29134.1
+2024-06-01,6100,R&D,France,Online,-19422.73
+2024-06-01,6200,G&A,France,Online,-16185.61
+2024-06-01,4000,Revenue,France,Enterprise,118082.01
+2024-06-01,5000,COGS,France,Enterprise,-54866.03
+2024-06-01,6000,Sales & Marketing,France,Enterprise,-25800.49
+2024-06-01,6100,R&D,France,Enterprise,-17200.33
+2024-06-01,6200,G&A,France,Enterprise,-14333.61
+2024-06-01,4000,Revenue,Italy,Online,192290.66
+2024-06-01,5000,COGS,Italy,Online,-76965.17
+2024-06-01,6000,Sales & Marketing,Italy,Online,-23003.01
+2024-06-01,6100,R&D,Italy,Online,-15335.34
+2024-06-01,6200,G&A,Italy,Online,-12779.45
+2024-06-01,4000,Revenue,Italy,Enterprise,173587.92
+2024-06-01,5000,COGS,Italy,Enterprise,-66147.95
+2024-06-01,6000,Sales & Marketing,Italy,Enterprise,-20655.14
+2024-06-01,6100,R&D,Italy,Enterprise,-13770.09
+2024-06-01,6200,G&A,Italy,Enterprise,-11475.08
+2024-06-01,4000,Revenue,Italy,Online,107342.47
+2024-06-01,5000,COGS,Italy,Online,-50057.0
+2024-06-01,6000,Sales & Marketing,Italy,Online,-25048.52
+2024-06-01,6100,R&D,Italy,Online,-16699.01
+2024-06-01,6200,G&A,Italy,Online,-13915.84
+2024-06-01,4000,Revenue,Italy,Enterprise,114810.19
+2024-06-01,5000,COGS,Italy,Enterprise,-56425.43
+2024-06-01,6000,Sales & Marketing,Italy,Enterprise,-23658.41
+2024-06-01,6100,R&D,Italy,Enterprise,-15772.27
+2024-06-01,6200,G&A,Italy,Enterprise,-13143.56
+2024-06-01,4000,Revenue,Spain,Online,188934.88
+2024-06-01,5000,COGS,Spain,Online,-67591.79
+2024-06-01,6000,Sales & Marketing,Spain,Online,-26349.43
+2024-06-01,6100,R&D,Spain,Online,-17566.28
+2024-06-01,6200,G&A,Spain,Online,-14638.57
+2024-06-01,4000,Revenue,Spain,Enterprise,182837.69
+2024-06-01,5000,COGS,Spain,Enterprise,-71234.09
+2024-06-01,6000,Sales & Marketing,Spain,Enterprise,-18817.67
+2024-06-01,6100,R&D,Spain,Enterprise,-12545.11
+2024-06-01,6200,G&A,Spain,Enterprise,-10454.26
+2024-06-01,4000,Revenue,Spain,Online,125410.78
+2024-06-01,5000,COGS,Spain,Online,-58828.74
+2024-06-01,6000,Sales & Marketing,Spain,Online,-24355.45
+2024-06-01,6100,R&D,Spain,Online,-16236.97
+2024-06-01,6200,G&A,Spain,Online,-13530.81
+2024-06-01,4000,Revenue,Spain,Enterprise,104944.52
+2024-06-01,5000,COGS,Spain,Enterprise,-48827.99
+2024-06-01,6000,Sales & Marketing,Spain,Enterprise,-24402.0
+2024-06-01,6100,R&D,Spain,Enterprise,-16268.0
+2024-06-01,6200,G&A,Spain,Enterprise,-13556.67
+2024-07-01,4000,Revenue,DACH,Online,253968.42
+2024-07-01,5000,COGS,DACH,Online,-95982.35
+2024-07-01,6000,Sales & Marketing,DACH,Online,-32738.96
+2024-07-01,6100,R&D,DACH,Online,-21825.97
+2024-07-01,6200,G&A,DACH,Online,-18188.31
+2024-07-01,4000,Revenue,DACH,Enterprise,237151.13
+2024-07-01,5000,COGS,DACH,Enterprise,-97096.75
+2024-07-01,6000,Sales & Marketing,DACH,Enterprise,-24138.02
+2024-07-01,6100,R&D,DACH,Enterprise,-16092.01
+2024-07-01,6200,G&A,DACH,Enterprise,-13410.01
+2024-07-01,4000,Revenue,DACH,Online,152895.87
+2024-07-01,5000,COGS,DACH,Online,-70871.86
+2024-07-01,6000,Sales & Marketing,DACH,Online,-38004.1
+2024-07-01,6100,R&D,DACH,Online,-25336.07
+2024-07-01,6200,G&A,DACH,Online,-21113.39
+2024-07-01,4000,Revenue,DACH,Enterprise,137853.6
+2024-07-01,5000,COGS,DACH,Enterprise,-58569.25
+2024-07-01,6000,Sales & Marketing,DACH,Enterprise,-34635.59
+2024-07-01,6100,R&D,DACH,Enterprise,-23090.39
+2024-07-01,6200,G&A,DACH,Enterprise,-19241.99
+2024-07-01,4000,Revenue,France,Online,228232.96
+2024-07-01,5000,COGS,France,Online,-79726.97
+2024-07-01,6000,Sales & Marketing,France,Online,-28577.21
+2024-07-01,6100,R&D,France,Online,-19051.47
+2024-07-01,6200,G&A,France,Online,-15876.23
+2024-07-01,4000,Revenue,France,Enterprise,184294.24
+2024-07-01,5000,COGS,France,Enterprise,-69805.78
+2024-07-01,6000,Sales & Marketing,France,Enterprise,-22253.17
+2024-07-01,6100,R&D,France,Enterprise,-14835.44
+2024-07-01,6200,G&A,France,Enterprise,-12362.87
+2024-07-01,4000,Revenue,France,Online,121590.04
+2024-07-01,5000,COGS,France,Online,-59092.87
+2024-07-01,6000,Sales & Marketing,France,Online,-31084.39
+2024-07-01,6100,R&D,France,Online,-20722.93
+2024-07-01,6200,G&A,France,Online,-17269.1
+2024-07-01,4000,Revenue,France,Enterprise,124524.28
+2024-07-01,5000,COGS,France,Enterprise,-60213.5
+2024-07-01,6000,Sales & Marketing,France,Enterprise,-27948.43
+2024-07-01,6100,R&D,France,Enterprise,-18632.29
+2024-07-01,6200,G&A,France,Enterprise,-15526.91
+2024-07-01,4000,Revenue,Italy,Online,194172.93
+2024-07-01,5000,COGS,Italy,Online,-75490.52
+2024-07-01,6000,Sales & Marketing,Italy,Online,-24225.48
+2024-07-01,6100,R&D,Italy,Online,-16150.32
+2024-07-01,6200,G&A,Italy,Online,-13458.6
+2024-07-01,4000,Revenue,Italy,Enterprise,156956.48
+2024-07-01,5000,COGS,Italy,Enterprise,-59852.36
+2024-07-01,6000,Sales & Marketing,Italy,Enterprise,-19502.58
+2024-07-01,6100,R&D,Italy,Enterprise,-13001.72
+2024-07-01,6200,G&A,Italy,Enterprise,-10834.76
+2024-07-01,4000,Revenue,Italy,Online,111730.17
+2024-07-01,5000,COGS,Italy,Online,-48762.84
+2024-07-01,6000,Sales & Marketing,Italy,Online,-26825.04
+2024-07-01,6100,R&D,Italy,Online,-17883.36
+2024-07-01,6200,G&A,Italy,Online,-14902.8
+2024-07-01,4000,Revenue,Italy,Enterprise,94783.22
+2024-07-01,5000,COGS,Italy,Enterprise,-45820.57
+2024-07-01,6000,Sales & Marketing,Italy,Enterprise,-24328.6
+2024-07-01,6100,R&D,Italy,Enterprise,-16219.07
+2024-07-01,6200,G&A,Italy,Enterprise,-13515.89
+2024-07-01,4000,Revenue,Spain,Online,206451.52
+2024-07-01,5000,COGS,Spain,Online,-81468.97
+2024-07-01,6000,Sales & Marketing,Spain,Online,-21031.51
+2024-07-01,6100,R&D,Spain,Online,-14021.01
+2024-07-01,6200,G&A,Spain,Online,-11684.17
+2024-07-01,4000,Revenue,Spain,Enterprise,168520.29
+2024-07-01,5000,COGS,Spain,Enterprise,-60087.57
+2024-07-01,6000,Sales & Marketing,Spain,Enterprise,-20963.22
+2024-07-01,6100,R&D,Spain,Enterprise,-13975.48
+2024-07-01,6200,G&A,Spain,Enterprise,-11646.23
+2024-07-01,4000,Revenue,Spain,Online,121797.71
+2024-07-01,5000,COGS,Spain,Online,-57579.95
+2024-07-01,6000,Sales & Marketing,Spain,Online,-25235.41
+2024-07-01,6100,R&D,Spain,Online,-16823.6
+2024-07-01,6200,G&A,Spain,Online,-14019.67
+2024-07-01,4000,Revenue,Spain,Enterprise,95345.24
+2024-07-01,5000,COGS,Spain,Enterprise,-43921.32
+2024-07-01,6000,Sales & Marketing,Spain,Enterprise,-21935.01
+2024-07-01,6100,R&D,Spain,Enterprise,-14623.34
+2024-07-01,6200,G&A,Spain,Enterprise,-12186.11
+2024-08-01,4000,Revenue,DACH,Online,236498.17
+2024-08-01,5000,COGS,DACH,Online,-91345.1
+2024-08-01,6000,Sales & Marketing,DACH,Online,-36500.65
+2024-08-01,6100,R&D,DACH,Online,-24333.76
+2024-08-01,6200,G&A,DACH,Online,-20278.14
+2024-08-01,4000,Revenue,DACH,Enterprise,232201.69
+2024-08-01,5000,COGS,DACH,Enterprise,-77595.82
+2024-08-01,6000,Sales & Marketing,DACH,Enterprise,-31114.61
+2024-08-01,6100,R&D,DACH,Enterprise,-20743.07
+2024-08-01,6200,G&A,DACH,Enterprise,-17285.9
+2024-08-01,4000,Revenue,DACH,Online,148491.72
+2024-08-01,5000,COGS,DACH,Online,-69535.38
+2024-08-01,6000,Sales & Marketing,DACH,Online,-41925.14
+2024-08-01,6100,R&D,DACH,Online,-27950.09
+2024-08-01,6200,G&A,DACH,Online,-23291.74
+2024-08-01,4000,Revenue,DACH,Enterprise,117772.16
+2024-08-01,5000,COGS,DACH,Enterprise,-52782.88
+2024-08-01,6000,Sales & Marketing,DACH,Enterprise,-35345.45
+2024-08-01,6100,R&D,DACH,Enterprise,-23563.63
+2024-08-01,6200,G&A,DACH,Enterprise,-19636.36
+2024-08-01,4000,Revenue,France,Online,178429.49
+2024-08-01,5000,COGS,France,Online,-73070.26
+2024-08-01,6000,Sales & Marketing,France,Online,-27517.69
+2024-08-01,6100,R&D,France,Online,-18345.13
+2024-08-01,6200,G&A,France,Online,-15287.61
+2024-08-01,4000,Revenue,France,Enterprise,188318.64
+2024-08-01,5000,COGS,France,Enterprise,-69410.7
+2024-08-01,6000,Sales & Marketing,France,Enterprise,-25881.96
+2024-08-01,6100,R&D,France,Enterprise,-17254.64
+2024-08-01,6200,G&A,France,Enterprise,-14378.86
+2024-08-01,4000,Revenue,France,Online,125865.02
+2024-08-01,5000,COGS,France,Online,-58484.14
+2024-08-01,6000,Sales & Marketing,France,Online,-30256.94
+2024-08-01,6100,R&D,France,Online,-20171.29
+2024-08-01,6200,G&A,France,Online,-16809.41
+2024-08-01,4000,Revenue,France,Enterprise,109273.42
+2024-08-01,5000,COGS,France,Enterprise,-48378.96
+2024-08-01,6000,Sales & Marketing,France,Enterprise,-26681.34
+2024-08-01,6100,R&D,France,Enterprise,-17787.56
+2024-08-01,6200,G&A,France,Enterprise,-14822.97
+2024-08-01,4000,Revenue,Italy,Online,166032.93
+2024-08-01,5000,COGS,Italy,Online,-64365.63
+2024-08-01,6000,Sales & Marketing,Italy,Online,-24537.82
+2024-08-01,6100,R&D,Italy,Online,-16358.55
+2024-08-01,6200,G&A,Italy,Online,-13632.12
+2024-08-01,4000,Revenue,Italy,Enterprise,142658.08
+2024-08-01,5000,COGS,Italy,Enterprise,-53853.4
+2024-08-01,6000,Sales & Marketing,Italy,Enterprise,-23102.96
+2024-08-01,6100,R&D,Italy,Enterprise,-15401.97
+2024-08-01,6200,G&A,Italy,Enterprise,-12834.98
+2024-08-01,4000,Revenue,Italy,Online,96054.22
+2024-08-01,5000,COGS,Italy,Online,-42605.33
+2024-08-01,6000,Sales & Marketing,Italy,Online,-25653.58
+2024-08-01,6100,R&D,Italy,Online,-17102.38
+2024-08-01,6200,G&A,Italy,Online,-14251.99
+2024-08-01,4000,Revenue,Italy,Enterprise,96030.45
+2024-08-01,5000,COGS,Italy,Enterprise,-44195.95
+2024-08-01,6000,Sales & Marketing,Italy,Enterprise,-25389.97
+2024-08-01,6100,R&D,Italy,Enterprise,-16926.65
+2024-08-01,6200,G&A,Italy,Enterprise,-14105.54
+2024-08-01,4000,Revenue,Spain,Online,186544.15
+2024-08-01,5000,COGS,Spain,Online,-74027.51
+2024-08-01,6000,Sales & Marketing,Spain,Online,-25123.43
+2024-08-01,6100,R&D,Spain,Online,-16748.95
+2024-08-01,6200,G&A,Spain,Online,-13957.46
+2024-08-01,4000,Revenue,Spain,Enterprise,183820.02
+2024-08-01,5000,COGS,Spain,Enterprise,-69097.35
+2024-08-01,6000,Sales & Marketing,Spain,Enterprise,-18364.64
+2024-08-01,6100,R&D,Spain,Enterprise,-12243.09
+2024-08-01,6200,G&A,Spain,Enterprise,-10202.58
+2024-08-01,4000,Revenue,Spain,Online,116700.69
+2024-08-01,5000,COGS,Spain,Online,-52614.04
+2024-08-01,6000,Sales & Marketing,Spain,Online,-26960.69
+2024-08-01,6100,R&D,Spain,Online,-17973.79
+2024-08-01,6200,G&A,Spain,Online,-14978.16
+2024-08-01,4000,Revenue,Spain,Enterprise,104380.32
+2024-08-01,5000,COGS,Spain,Enterprise,-44670.06
+2024-08-01,6000,Sales & Marketing,Spain,Enterprise,-21866.8
+2024-08-01,6100,R&D,Spain,Enterprise,-14577.86
+2024-08-01,6200,G&A,Spain,Enterprise,-12148.22
+2024-09-01,4000,Revenue,DACH,Online,218749.44
+2024-09-01,5000,COGS,DACH,Online,-79650.45
+2024-09-01,6000,Sales & Marketing,DACH,Online,-34587.65
+2024-09-01,6100,R&D,DACH,Online,-23058.43
+2024-09-01,6200,G&A,DACH,Online,-19215.36
+2024-09-01,4000,Revenue,DACH,Enterprise,226919.28
+2024-09-01,5000,COGS,DACH,Enterprise,-87483.16
+2024-09-01,6000,Sales & Marketing,DACH,Enterprise,-26941.98
+2024-09-01,6100,R&D,DACH,Enterprise,-17961.32
+2024-09-01,6200,G&A,DACH,Enterprise,-14967.76
+2024-09-01,4000,Revenue,DACH,Online,125074.38
+2024-09-01,5000,COGS,DACH,Online,-57670.18
+2024-09-01,6000,Sales & Marketing,DACH,Online,-35723.83
+2024-09-01,6100,R&D,DACH,Online,-23815.88
+2024-09-01,6200,G&A,DACH,Online,-19846.57
+2024-09-01,4000,Revenue,DACH,Enterprise,135638.34
+2024-09-01,5000,COGS,DACH,Enterprise,-64297.87
+2024-09-01,6000,Sales & Marketing,DACH,Enterprise,-34123.25
+2024-09-01,6100,R&D,DACH,Enterprise,-22748.83
+2024-09-01,6200,G&A,DACH,Enterprise,-18957.36
+2024-09-01,4000,Revenue,France,Online,202429.71
+2024-09-01,5000,COGS,France,Online,-77851.27
+2024-09-01,6000,Sales & Marketing,France,Online,-27863.49
+2024-09-01,6100,R&D,France,Online,-18575.66
+2024-09-01,6200,G&A,France,Online,-15479.72
+2024-09-01,4000,Revenue,France,Enterprise,168558.65
+2024-09-01,5000,COGS,France,Enterprise,-63446.79
+2024-09-01,6000,Sales & Marketing,France,Enterprise,-24682.53
+2024-09-01,6100,R&D,France,Enterprise,-16455.02
+2024-09-01,6200,G&A,France,Enterprise,-13712.52
+2024-09-01,4000,Revenue,France,Online,121878.76
+2024-09-01,5000,COGS,France,Online,-55104.45
+2024-09-01,6000,Sales & Marketing,France,Online,-30938.29
+2024-09-01,6100,R&D,France,Online,-20625.53
+2024-09-01,6200,G&A,France,Online,-17187.94
+2024-09-01,4000,Revenue,France,Enterprise,103915.65
+2024-09-01,5000,COGS,France,Enterprise,-47556.91
+2024-09-01,6000,Sales & Marketing,France,Enterprise,-28791.76
+2024-09-01,6100,R&D,France,Enterprise,-19194.51
+2024-09-01,6200,G&A,France,Enterprise,-15995.42
+2024-09-01,4000,Revenue,Italy,Online,144881.32
+2024-09-01,5000,COGS,Italy,Online,-51298.21
+2024-09-01,6000,Sales & Marketing,Italy,Online,-20026.42
+2024-09-01,6100,R&D,Italy,Online,-13350.95
+2024-09-01,6200,G&A,Italy,Online,-11125.79
+2024-09-01,4000,Revenue,Italy,Enterprise,128653.46
+2024-09-01,5000,COGS,Italy,Enterprise,-47143.09
+2024-09-01,6000,Sales & Marketing,Italy,Enterprise,-21893.36
+2024-09-01,6100,R&D,Italy,Enterprise,-14595.58
+2024-09-01,6200,G&A,Italy,Enterprise,-12162.98
+2024-09-01,4000,Revenue,Italy,Online,97048.3
+2024-09-01,5000,COGS,Italy,Online,-45026.12
+2024-09-01,6000,Sales & Marketing,Italy,Online,-27444.78
+2024-09-01,6100,R&D,Italy,Online,-18296.52
+2024-09-01,6200,G&A,Italy,Online,-15247.1
+2024-09-01,4000,Revenue,Italy,Enterprise,96910.39
+2024-09-01,5000,COGS,Italy,Enterprise,-44444.77
+2024-09-01,6000,Sales & Marketing,Italy,Enterprise,-25435.18
+2024-09-01,6100,R&D,Italy,Enterprise,-16956.79
+2024-09-01,6200,G&A,Italy,Enterprise,-14130.66
+2024-09-01,4000,Revenue,Spain,Online,175203.13
+2024-09-01,5000,COGS,Spain,Online,-63642.89
+2024-09-01,6000,Sales & Marketing,Spain,Online,-22913.04
+2024-09-01,6100,R&D,Spain,Online,-15275.36
+2024-09-01,6200,G&A,Spain,Online,-12729.47
+2024-09-01,4000,Revenue,Spain,Enterprise,144328.98
+2024-09-01,5000,COGS,Spain,Enterprise,-52281.34
+2024-09-01,6000,Sales & Marketing,Spain,Enterprise,-21243.61
+2024-09-01,6100,R&D,Spain,Enterprise,-14162.41
+2024-09-01,6200,G&A,Spain,Enterprise,-11802.01
+2024-09-01,4000,Revenue,Spain,Online,109584.6
+2024-09-01,5000,COGS,Spain,Online,-54180.31
+2024-09-01,6000,Sales & Marketing,Spain,Online,-23774.34
+2024-09-01,6100,R&D,Spain,Online,-15849.56
+2024-09-01,6200,G&A,Spain,Online,-13207.97
+2024-09-01,4000,Revenue,Spain,Enterprise,97280.06
+2024-09-01,5000,COGS,Spain,Enterprise,-42724.34
+2024-09-01,6000,Sales & Marketing,Spain,Enterprise,-25222.81
+2024-09-01,6100,R&D,Spain,Enterprise,-16815.21
+2024-09-01,6200,G&A,Spain,Enterprise,-14012.67
+2024-10-01,4000,Revenue,DACH,Online,244483.01
+2024-10-01,5000,COGS,DACH,Online,-83951.04
+2024-10-01,6000,Sales & Marketing,DACH,Online,-35893.84
+2024-10-01,6100,R&D,DACH,Online,-23929.22
+2024-10-01,6200,G&A,DACH,Online,-19941.02
+2024-10-01,4000,Revenue,DACH,Enterprise,215887.33
+2024-10-01,5000,COGS,DACH,Enterprise,-79731.94
+2024-10-01,6000,Sales & Marketing,DACH,Enterprise,-27775.5
+2024-10-01,6100,R&D,DACH,Enterprise,-18517.0
+2024-10-01,6200,G&A,DACH,Enterprise,-15430.83
+2024-10-01,4000,Revenue,DACH,Online,142048.44
+2024-10-01,5000,COGS,DACH,Online,-66557.91
+2024-10-01,6000,Sales & Marketing,DACH,Online,-36562.95
+2024-10-01,6100,R&D,DACH,Online,-24375.3
+2024-10-01,6200,G&A,DACH,Online,-20312.75
+2024-10-01,4000,Revenue,DACH,Enterprise,137062.1
+2024-10-01,5000,COGS,DACH,Enterprise,-64040.68
+2024-10-01,6000,Sales & Marketing,DACH,Enterprise,-37315.79
+2024-10-01,6100,R&D,DACH,Enterprise,-24877.19
+2024-10-01,6200,G&A,DACH,Enterprise,-20730.99
+2024-10-01,4000,Revenue,France,Online,193082.38
+2024-10-01,5000,COGS,France,Online,-67668.2
+2024-10-01,6000,Sales & Marketing,France,Online,-29012.15
+2024-10-01,6100,R&D,France,Online,-19341.43
+2024-10-01,6200,G&A,France,Online,-16117.86
+2024-10-01,4000,Revenue,France,Enterprise,175650.92
+2024-10-01,5000,COGS,France,Enterprise,-70662.93
+2024-10-01,6000,Sales & Marketing,France,Enterprise,-25045.29
+2024-10-01,6100,R&D,France,Enterprise,-16696.86
+2024-10-01,6200,G&A,France,Enterprise,-13914.05
+2024-10-01,4000,Revenue,France,Online,117351.48
+2024-10-01,5000,COGS,France,Online,-54800.27
+2024-10-01,6000,Sales & Marketing,France,Online,-34335.61
+2024-10-01,6100,R&D,France,Online,-22890.41
+2024-10-01,6200,G&A,France,Online,-19075.34
+2024-10-01,4000,Revenue,France,Enterprise,120929.4
+2024-10-01,5000,COGS,France,Enterprise,-55795.33
+2024-10-01,6000,Sales & Marketing,France,Enterprise,-27346.01
+2024-10-01,6100,R&D,France,Enterprise,-18230.67
+2024-10-01,6200,G&A,France,Enterprise,-15192.23
+2024-10-01,4000,Revenue,Italy,Online,178386.89
+2024-10-01,5000,COGS,Italy,Online,-64769.92
+2024-10-01,6000,Sales & Marketing,Italy,Online,-23325.9
+2024-10-01,6100,R&D,Italy,Online,-15550.6
+2024-10-01,6200,G&A,Italy,Online,-12958.83
+2024-10-01,4000,Revenue,Italy,Enterprise,152096.7
+2024-10-01,5000,COGS,Italy,Enterprise,-58751.63
+2024-10-01,6000,Sales & Marketing,Italy,Enterprise,-19277.94
+2024-10-01,6100,R&D,Italy,Enterprise,-12851.96
+2024-10-01,6200,G&A,Italy,Enterprise,-10709.97
+2024-10-01,4000,Revenue,Italy,Online,90950.94
+2024-10-01,5000,COGS,Italy,Online,-38066.64
+2024-10-01,6000,Sales & Marketing,Italy,Online,-22988.33
+2024-10-01,6100,R&D,Italy,Online,-15325.55
+2024-10-01,6200,G&A,Italy,Online,-12771.3
+2024-10-01,4000,Revenue,Italy,Enterprise,88884.48
+2024-10-01,5000,COGS,Italy,Enterprise,-40365.66
+2024-10-01,6000,Sales & Marketing,Italy,Enterprise,-26506.76
+2024-10-01,6100,R&D,Italy,Enterprise,-17671.17
+2024-10-01,6200,G&A,Italy,Enterprise,-14725.98
+2024-10-01,4000,Revenue,Spain,Online,189196.97
+2024-10-01,5000,COGS,Spain,Online,-68254.35
+2024-10-01,6000,Sales & Marketing,Spain,Online,-24726.19
+2024-10-01,6100,R&D,Spain,Online,-16484.12
+2024-10-01,6200,G&A,Spain,Online,-13736.77
+2024-10-01,4000,Revenue,Spain,Enterprise,157354.3
+2024-10-01,5000,COGS,Spain,Enterprise,-58899.72
+2024-10-01,6000,Sales & Marketing,Spain,Enterprise,-22194.25
+2024-10-01,6100,R&D,Spain,Enterprise,-14796.17
+2024-10-01,6200,G&A,Spain,Enterprise,-12330.14
+2024-10-01,4000,Revenue,Spain,Online,110408.73
+2024-10-01,5000,COGS,Spain,Online,-50038.88
+2024-10-01,6000,Sales & Marketing,Spain,Online,-29004.94
+2024-10-01,6100,R&D,Spain,Online,-19336.63
+2024-10-01,6200,G&A,Spain,Online,-16113.85
+2024-10-01,4000,Revenue,Spain,Enterprise,90145.56
+2024-10-01,5000,COGS,Spain,Enterprise,-41478.38
+2024-10-01,6000,Sales & Marketing,Spain,Enterprise,-29349.88
+2024-10-01,6100,R&D,Spain,Enterprise,-19566.58
+2024-10-01,6200,G&A,Spain,Enterprise,-16305.49
+2024-11-01,4000,Revenue,DACH,Online,261959.97
+2024-11-01,5000,COGS,DACH,Online,-107053.68
+2024-11-01,6000,Sales & Marketing,DACH,Online,-33657.13
+2024-11-01,6100,R&D,DACH,Online,-22438.09
+2024-11-01,6200,G&A,DACH,Online,-18698.41
+2024-11-01,4000,Revenue,DACH,Enterprise,243188.96
+2024-11-01,5000,COGS,DACH,Enterprise,-92135.62
+2024-11-01,6000,Sales & Marketing,DACH,Enterprise,-29960.91
+2024-11-01,6100,R&D,DACH,Enterprise,-19973.94
+2024-11-01,6200,G&A,DACH,Enterprise,-16644.95
+2024-11-01,4000,Revenue,DACH,Online,147846.14
+2024-11-01,5000,COGS,DACH,Online,-69281.59
+2024-11-01,6000,Sales & Marketing,DACH,Online,-34595.93
+2024-11-01,6100,R&D,DACH,Online,-23063.96
+2024-11-01,6200,G&A,DACH,Online,-19219.96
+2024-11-01,4000,Revenue,DACH,Enterprise,146630.85
+2024-11-01,5000,COGS,DACH,Enterprise,-70632.92
+2024-11-01,6000,Sales & Marketing,DACH,Enterprise,-34739.64
+2024-11-01,6100,R&D,DACH,Enterprise,-23159.76
+2024-11-01,6200,G&A,DACH,Enterprise,-19299.8
+2024-11-01,4000,Revenue,France,Online,203248.23
+2024-11-01,5000,COGS,France,Online,-79079.68
+2024-11-01,6000,Sales & Marketing,France,Online,-26069.94
+2024-11-01,6100,R&D,France,Online,-17379.96
+2024-11-01,6200,G&A,France,Online,-14483.3
+2024-11-01,4000,Revenue,France,Enterprise,198552.97
+2024-11-01,5000,COGS,France,Enterprise,-68177.51
+2024-11-01,6000,Sales & Marketing,France,Enterprise,-23647.58
+2024-11-01,6100,R&D,France,Enterprise,-15765.05
+2024-11-01,6200,G&A,France,Enterprise,-13137.55
+2024-11-01,4000,Revenue,France,Online,109258.8
+2024-11-01,5000,COGS,France,Online,-46992.08
+2024-11-01,6000,Sales & Marketing,France,Online,-32940.54
+2024-11-01,6100,R&D,France,Online,-21960.36
+2024-11-01,6200,G&A,France,Online,-18300.3
+2024-11-01,4000,Revenue,France,Enterprise,118858.61
+2024-11-01,5000,COGS,France,Enterprise,-52964.63
+2024-11-01,6000,Sales & Marketing,France,Enterprise,-23754.59
+2024-11-01,6100,R&D,France,Enterprise,-15836.39
+2024-11-01,6200,G&A,France,Enterprise,-13197.0
+2024-11-01,4000,Revenue,Italy,Online,144513.71
+2024-11-01,5000,COGS,Italy,Online,-53344.36
+2024-11-01,6000,Sales & Marketing,Italy,Online,-27119.94
+2024-11-01,6100,R&D,Italy,Online,-18079.96
+2024-11-01,6200,G&A,Italy,Online,-15066.64
+2024-11-01,4000,Revenue,Italy,Enterprise,163969.67
+2024-11-01,5000,COGS,Italy,Enterprise,-60473.42
+2024-11-01,6000,Sales & Marketing,Italy,Enterprise,-21423.5
+2024-11-01,6100,R&D,Italy,Enterprise,-14282.33
+2024-11-01,6200,G&A,Italy,Enterprise,-11901.94
+2024-11-01,4000,Revenue,Italy,Online,95590.13
+2024-11-01,5000,COGS,Italy,Online,-43403.04
+2024-11-01,6000,Sales & Marketing,Italy,Online,-25445.9
+2024-11-01,6100,R&D,Italy,Online,-16963.93
+2024-11-01,6200,G&A,Italy,Online,-14136.61
+2024-11-01,4000,Revenue,Italy,Enterprise,95384.68
+2024-11-01,5000,COGS,Italy,Enterprise,-45385.57
+2024-11-01,6000,Sales & Marketing,Italy,Enterprise,-23582.77
+2024-11-01,6100,R&D,Italy,Enterprise,-15721.84
+2024-11-01,6200,G&A,Italy,Enterprise,-13101.54
+2024-11-01,4000,Revenue,Spain,Online,193583.33
+2024-11-01,5000,COGS,Spain,Online,-70896.52
+2024-11-01,6000,Sales & Marketing,Spain,Online,-25784.9
+2024-11-01,6100,R&D,Spain,Online,-17189.93
+2024-11-01,6200,G&A,Spain,Online,-14324.94
+2024-11-01,4000,Revenue,Spain,Enterprise,185736.97
+2024-11-01,5000,COGS,Spain,Enterprise,-66976.2
+2024-11-01,6000,Sales & Marketing,Spain,Enterprise,-20316.89
+2024-11-01,6100,R&D,Spain,Enterprise,-13544.59
+2024-11-01,6200,G&A,Spain,Enterprise,-11287.16
+2024-11-01,4000,Revenue,Spain,Online,120622.18
+2024-11-01,5000,COGS,Spain,Online,-55024.6
+2024-11-01,6000,Sales & Marketing,Spain,Online,-29731.93
+2024-11-01,6100,R&D,Spain,Online,-19821.29
+2024-11-01,6200,G&A,Spain,Online,-16517.74
+2024-11-01,4000,Revenue,Spain,Enterprise,98824.43
+2024-11-01,5000,COGS,Spain,Enterprise,-48335.12
+2024-11-01,6000,Sales & Marketing,Spain,Enterprise,-24555.61
+2024-11-01,6100,R&D,Spain,Enterprise,-16370.41
+2024-11-01,6200,G&A,Spain,Enterprise,-13642.0
+2024-12-01,4000,Revenue,DACH,Online,279260.78
+2024-12-01,5000,COGS,DACH,Online,-114858.38
+2024-12-01,6000,Sales & Marketing,DACH,Online,-32445.49
+2024-12-01,6100,R&D,DACH,Online,-21630.32
+2024-12-01,6200,G&A,DACH,Online,-18025.27
+2024-12-01,4000,Revenue,DACH,Enterprise,235883.17
+2024-12-01,5000,COGS,DACH,Enterprise,-87519.43
+2024-12-01,6000,Sales & Marketing,DACH,Enterprise,-31474.17
+2024-12-01,6100,R&D,DACH,Enterprise,-20982.78
+2024-12-01,6200,G&A,DACH,Enterprise,-17485.65
+2024-12-01,4000,Revenue,DACH,Online,149498.99
+2024-12-01,5000,COGS,DACH,Online,-70675.56
+2024-12-01,6000,Sales & Marketing,DACH,Online,-35524.85
+2024-12-01,6100,R&D,DACH,Online,-23683.23
+2024-12-01,6200,G&A,DACH,Online,-19736.03
+2024-12-01,4000,Revenue,DACH,Enterprise,160330.31
+2024-12-01,5000,COGS,DACH,Enterprise,-66074.49
+2024-12-01,6000,Sales & Marketing,DACH,Enterprise,-31626.27
+2024-12-01,6100,R&D,DACH,Enterprise,-21084.18
+2024-12-01,6200,G&A,DACH,Enterprise,-17570.15
+2024-12-01,4000,Revenue,France,Online,197738.62
+2024-12-01,5000,COGS,France,Online,-71873.13
+2024-12-01,6000,Sales & Marketing,France,Online,-27259.61
+2024-12-01,6100,R&D,France,Online,-18173.07
+2024-12-01,6200,G&A,France,Online,-15144.23
+2024-12-01,4000,Revenue,France,Enterprise,197849.28
+2024-12-01,5000,COGS,France,Enterprise,-74180.12
+2024-12-01,6000,Sales & Marketing,France,Enterprise,-23990.54
+2024-12-01,6100,R&D,France,Enterprise,-15993.7
+2024-12-01,6200,G&A,France,Enterprise,-13328.08
+2024-12-01,4000,Revenue,France,Online,133610.83
+2024-12-01,5000,COGS,France,Online,-58765.96
+2024-12-01,6000,Sales & Marketing,France,Online,-31379.48
+2024-12-01,6100,R&D,France,Online,-20919.65
+2024-12-01,6200,G&A,France,Online,-17433.04
+2024-12-01,4000,Revenue,France,Enterprise,124771.19
+2024-12-01,5000,COGS,France,Enterprise,-58355.58
+2024-12-01,6000,Sales & Marketing,France,Enterprise,-28202.11
+2024-12-01,6100,R&D,France,Enterprise,-18801.41
+2024-12-01,6200,G&A,France,Enterprise,-15667.84
+2024-12-01,4000,Revenue,Italy,Online,190325.81
+2024-12-01,5000,COGS,Italy,Online,-80070.35
+2024-12-01,6000,Sales & Marketing,Italy,Online,-22562.19
+2024-12-01,6100,R&D,Italy,Online,-15041.46
+2024-12-01,6200,G&A,Italy,Online,-12534.55
+2024-12-01,4000,Revenue,Italy,Enterprise,166867.75
+2024-12-01,5000,COGS,Italy,Enterprise,-60894.96
+2024-12-01,6000,Sales & Marketing,Italy,Enterprise,-18949.29
+2024-12-01,6100,R&D,Italy,Enterprise,-12632.86
+2024-12-01,6200,G&A,Italy,Enterprise,-10527.38
+2024-12-01,4000,Revenue,Italy,Online,103822.22
+2024-12-01,5000,COGS,Italy,Online,-45912.68
+2024-12-01,6000,Sales & Marketing,Italy,Online,-25102.26
+2024-12-01,6100,R&D,Italy,Online,-16734.84
+2024-12-01,6200,G&A,Italy,Online,-13945.7
+2024-12-01,4000,Revenue,Italy,Enterprise,104045.89
+2024-12-01,5000,COGS,Italy,Enterprise,-47967.53
+2024-12-01,6000,Sales & Marketing,Italy,Enterprise,-21544.48
+2024-12-01,6100,R&D,Italy,Enterprise,-14362.99
+2024-12-01,6200,G&A,Italy,Enterprise,-11969.16
+2024-12-01,4000,Revenue,Spain,Online,208694.19
+2024-12-01,5000,COGS,Spain,Online,-82390.02
+2024-12-01,6000,Sales & Marketing,Spain,Online,-23749.75
+2024-12-01,6100,R&D,Spain,Online,-15833.17
+2024-12-01,6200,G&A,Spain,Online,-13194.31
+2024-12-01,4000,Revenue,Spain,Enterprise,172948.51
+2024-12-01,5000,COGS,Spain,Enterprise,-67617.43
+2024-12-01,6000,Sales & Marketing,Spain,Enterprise,-22198.88
+2024-12-01,6100,R&D,Spain,Enterprise,-14799.25
+2024-12-01,6200,G&A,Spain,Enterprise,-12332.71
+2024-12-01,4000,Revenue,Spain,Online,108477.75
+2024-12-01,5000,COGS,Spain,Online,-49752.28
+2024-12-01,6000,Sales & Marketing,Spain,Online,-27290.34
+2024-12-01,6100,R&D,Spain,Online,-18193.56
+2024-12-01,6200,G&A,Spain,Online,-15161.3
+2024-12-01,4000,Revenue,Spain,Enterprise,102169.98
+2024-12-01,5000,COGS,Spain,Enterprise,-47386.12
+2024-12-01,6000,Sales & Marketing,Spain,Enterprise,-21471.83
+2024-12-01,6100,R&D,Spain,Enterprise,-14314.55
+2024-12-01,6200,G&A,Spain,Enterprise,-11928.79
+2025-01-01,4000,Revenue,DACH,Online,314869.89
+2025-01-01,5000,COGS,DACH,Online,-127509.4
+2025-01-01,6000,Sales & Marketing,DACH,Online,-32737.52
+2025-01-01,6100,R&D,DACH,Online,-21825.01
+2025-01-01,6200,G&A,DACH,Online,-18187.51
+2025-01-01,4000,Revenue,DACH,Enterprise,270778.92
+2025-01-01,5000,COGS,DACH,Enterprise,-89844.87
+2025-01-01,6000,Sales & Marketing,DACH,Enterprise,-27565.07
+2025-01-01,6100,R&D,DACH,Enterprise,-18376.72
+2025-01-01,6200,G&A,DACH,Enterprise,-15313.93
+2025-01-01,4000,Revenue,DACH,Online,171817.08
+2025-01-01,5000,COGS,DACH,Online,-75351.64
+2025-01-01,6000,Sales & Marketing,DACH,Online,-39246.76
+2025-01-01,6100,R&D,DACH,Online,-26164.51
+2025-01-01,6200,G&A,DACH,Online,-21803.76
+2025-01-01,4000,Revenue,DACH,Enterprise,178054.21
+2025-01-01,5000,COGS,DACH,Enterprise,-77714.91
+2025-01-01,6000,Sales & Marketing,DACH,Enterprise,-31488.85
+2025-01-01,6100,R&D,DACH,Enterprise,-20992.57
+2025-01-01,6200,G&A,DACH,Enterprise,-17493.81
+2025-01-01,4000,Revenue,France,Online,236494.39
+2025-01-01,5000,COGS,France,Online,-97488.27
+2025-01-01,6000,Sales & Marketing,France,Online,-24116.08
+2025-01-01,6100,R&D,France,Online,-16077.38
+2025-01-01,6200,G&A,France,Online,-13397.82
+2025-01-01,4000,Revenue,France,Enterprise,215167.74
+2025-01-01,5000,COGS,France,Enterprise,-89601.44
+2025-01-01,6000,Sales & Marketing,France,Enterprise,-21088.98
+2025-01-01,6100,R&D,France,Enterprise,-14059.32
+2025-01-01,6200,G&A,France,Enterprise,-11716.1
+2025-01-01,4000,Revenue,France,Online,129165.17
+2025-01-01,5000,COGS,France,Online,-58321.67
+2025-01-01,6000,Sales & Marketing,France,Online,-28463.08
+2025-01-01,6100,R&D,France,Online,-18975.39
+2025-01-01,6200,G&A,France,Online,-15812.82
+2025-01-01,4000,Revenue,France,Enterprise,133401.77
+2025-01-01,5000,COGS,France,Enterprise,-62009.57
+2025-01-01,6000,Sales & Marketing,France,Enterprise,-23166.08
+2025-01-01,6100,R&D,France,Enterprise,-15444.05
+2025-01-01,6200,G&A,France,Enterprise,-12870.05
+2025-01-01,4000,Revenue,Italy,Online,204349.88
+2025-01-01,5000,COGS,Italy,Online,-75292.55
+2025-01-01,6000,Sales & Marketing,Italy,Online,-25036.99
+2025-01-01,6100,R&D,Italy,Online,-16691.33
+2025-01-01,6200,G&A,Italy,Online,-13909.44
+2025-01-01,4000,Revenue,Italy,Enterprise,173414.52
+2025-01-01,5000,COGS,Italy,Enterprise,-63689.55
+2025-01-01,6000,Sales & Marketing,Italy,Enterprise,-21549.17
+2025-01-01,6100,R&D,Italy,Enterprise,-14366.11
+2025-01-01,6200,G&A,Italy,Enterprise,-11971.76
+2025-01-01,4000,Revenue,Italy,Online,124376.18
+2025-01-01,5000,COGS,Italy,Online,-58327.7
+2025-01-01,6000,Sales & Marketing,Italy,Online,-21840.77
+2025-01-01,6100,R&D,Italy,Online,-14560.51
+2025-01-01,6200,G&A,Italy,Online,-12133.76
+2025-01-01,4000,Revenue,Italy,Enterprise,111610.34
+2025-01-01,5000,COGS,Italy,Enterprise,-49031.97
+2025-01-01,6000,Sales & Marketing,Italy,Enterprise,-23381.97
+2025-01-01,6100,R&D,Italy,Enterprise,-15587.98
+2025-01-01,6200,G&A,Italy,Enterprise,-12989.98
+2025-01-01,4000,Revenue,Spain,Online,191951.2
+2025-01-01,5000,COGS,Spain,Online,-74654.9
+2025-01-01,6000,Sales & Marketing,Spain,Online,-22504.65
+2025-01-01,6100,R&D,Spain,Online,-15003.1
+2025-01-01,6200,G&A,Spain,Online,-12502.58
+2025-01-01,4000,Revenue,Spain,Enterprise,176116.4
+2025-01-01,5000,COGS,Spain,Enterprise,-69438.54
+2025-01-01,6000,Sales & Marketing,Spain,Enterprise,-22292.78
+2025-01-01,6100,R&D,Spain,Enterprise,-14861.85
+2025-01-01,6200,G&A,Spain,Enterprise,-12384.88
+2025-01-01,4000,Revenue,Spain,Online,121288.99
+2025-01-01,5000,COGS,Spain,Online,-59313.17
+2025-01-01,6000,Sales & Marketing,Spain,Online,-25787.71
+2025-01-01,6100,R&D,Spain,Online,-17191.81
+2025-01-01,6200,G&A,Spain,Online,-14326.5
+2025-01-01,4000,Revenue,Spain,Enterprise,114700.54
+2025-01-01,5000,COGS,Spain,Enterprise,-53379.14
+2025-01-01,6000,Sales & Marketing,Spain,Enterprise,-23095.37
+2025-01-01,6100,R&D,Spain,Enterprise,-15396.91
+2025-01-01,6200,G&A,Spain,Enterprise,-12830.76
+2025-02-01,4000,Revenue,DACH,Online,312160.46
+2025-02-01,5000,COGS,DACH,Online,-115290.52
+2025-02-01,6000,Sales & Marketing,DACH,Online,-32312.19
+2025-02-01,6100,R&D,DACH,Online,-21541.46
+2025-02-01,6200,G&A,DACH,Online,-17951.22
+2025-02-01,4000,Revenue,DACH,Enterprise,298544.55
+2025-02-01,5000,COGS,DACH,Enterprise,-107233.7
+2025-02-01,6000,Sales & Marketing,DACH,Enterprise,-24511.95
+2025-02-01,6100,R&D,DACH,Enterprise,-16341.3
+2025-02-01,6200,G&A,DACH,Enterprise,-13617.75
+2025-02-01,4000,Revenue,DACH,Online,199752.97
+2025-02-01,5000,COGS,DACH,Online,-102071.08
+2025-02-01,6000,Sales & Marketing,DACH,Online,-35921.35
+2025-02-01,6100,R&D,DACH,Online,-23947.57
+2025-02-01,6200,G&A,DACH,Online,-19956.31
+2025-02-01,4000,Revenue,DACH,Enterprise,146345.38
+2025-02-01,5000,COGS,DACH,Enterprise,-66410.12
+2025-02-01,6000,Sales & Marketing,DACH,Enterprise,-32977.2
+2025-02-01,6100,R&D,DACH,Enterprise,-21984.8
+2025-02-01,6200,G&A,DACH,Enterprise,-18320.67
+2025-02-01,4000,Revenue,France,Online,240095.54
+2025-02-01,5000,COGS,France,Online,-85889.92
+2025-02-01,6000,Sales & Marketing,France,Online,-27969.33
+2025-02-01,6100,R&D,France,Online,-18646.22
+2025-02-01,6200,G&A,France,Online,-15538.52
+2025-02-01,4000,Revenue,France,Enterprise,227732.8
+2025-02-01,5000,COGS,France,Enterprise,-79731.96
+2025-02-01,6000,Sales & Marketing,France,Enterprise,-25659.24
+2025-02-01,6100,R&D,France,Enterprise,-17106.16
+2025-02-01,6200,G&A,France,Enterprise,-14255.13
+2025-02-01,4000,Revenue,France,Online,163664.61
+2025-02-01,5000,COGS,France,Online,-75848.6
+2025-02-01,6000,Sales & Marketing,France,Online,-28898.51
+2025-02-01,6100,R&D,France,Online,-19265.68
+2025-02-01,6200,G&A,France,Online,-16054.73
+2025-02-01,4000,Revenue,France,Enterprise,131342.09
+2025-02-01,5000,COGS,France,Enterprise,-62033.54
+2025-02-01,6000,Sales & Marketing,France,Enterprise,-23261.75
+2025-02-01,6100,R&D,France,Enterprise,-15507.83
+2025-02-01,6200,G&A,France,Enterprise,-12923.19
+2025-02-01,4000,Revenue,Italy,Online,208469.76
+2025-02-01,5000,COGS,Italy,Online,-77590.51
+2025-02-01,6000,Sales & Marketing,Italy,Online,-26079.18
+2025-02-01,6100,R&D,Italy,Online,-17386.12
+2025-02-01,6200,G&A,Italy,Online,-14488.43
+2025-02-01,4000,Revenue,Italy,Enterprise,185705.73
+2025-02-01,5000,COGS,Italy,Enterprise,-76762.9
+2025-02-01,6000,Sales & Marketing,Italy,Enterprise,-18831.18
+2025-02-01,6100,R&D,Italy,Enterprise,-12554.12
+2025-02-01,6200,G&A,Italy,Enterprise,-10461.76
+2025-02-01,4000,Revenue,Italy,Online,128224.45
+2025-02-01,5000,COGS,Italy,Online,-59802.34
+2025-02-01,6000,Sales & Marketing,Italy,Online,-23489.87
+2025-02-01,6100,R&D,Italy,Online,-15659.92
+2025-02-01,6200,G&A,Italy,Online,-13049.93
+2025-02-01,4000,Revenue,Italy,Enterprise,113798.64
+2025-02-01,5000,COGS,Italy,Enterprise,-55107.03
+2025-02-01,6000,Sales & Marketing,Italy,Enterprise,-22355.52
+2025-02-01,6100,R&D,Italy,Enterprise,-14903.68
+2025-02-01,6200,G&A,Italy,Enterprise,-12419.73
+2025-02-01,4000,Revenue,Spain,Online,196387.34
+2025-02-01,5000,COGS,Spain,Online,-74558.21
+2025-02-01,6000,Sales & Marketing,Spain,Online,-22320.23
+2025-02-01,6100,R&D,Spain,Online,-14880.16
+2025-02-01,6200,G&A,Spain,Online,-12400.13
+2025-02-01,4000,Revenue,Spain,Enterprise,194624.63
+2025-02-01,5000,COGS,Spain,Enterprise,-73639.78
+2025-02-01,6000,Sales & Marketing,Spain,Enterprise,-18885.79
+2025-02-01,6100,R&D,Spain,Enterprise,-12590.53
+2025-02-01,6200,G&A,Spain,Enterprise,-10492.1
+2025-02-01,4000,Revenue,Spain,Online,118432.82
+2025-02-01,5000,COGS,Spain,Online,-55620.95
+2025-02-01,6000,Sales & Marketing,Spain,Online,-25612.22
+2025-02-01,6100,R&D,Spain,Online,-17074.81
+2025-02-01,6200,G&A,Spain,Online,-14229.01
+2025-02-01,4000,Revenue,Spain,Enterprise,100876.99
+2025-02-01,5000,COGS,Spain,Enterprise,-47986.87
+2025-02-01,6000,Sales & Marketing,Spain,Enterprise,-24829.49
+2025-02-01,6100,R&D,Spain,Enterprise,-16552.99
+2025-02-01,6200,G&A,Spain,Enterprise,-13794.16
+2025-03-01,4000,Revenue,DACH,Online,294807.59
+2025-03-01,5000,COGS,DACH,Online,-104262.65
+2025-03-01,6000,Sales & Marketing,DACH,Online,-35646.61
+2025-03-01,6100,R&D,DACH,Online,-23764.41
+2025-03-01,6200,G&A,DACH,Online,-19803.67
+2025-03-01,4000,Revenue,DACH,Enterprise,285869.09
+2025-03-01,5000,COGS,DACH,Enterprise,-122252.5
+2025-03-01,6000,Sales & Marketing,DACH,Enterprise,-31396.06
+2025-03-01,6100,R&D,DACH,Enterprise,-20930.71
+2025-03-01,6200,G&A,DACH,Enterprise,-17442.26
+2025-03-01,4000,Revenue,DACH,Online,189098.85
+2025-03-01,5000,COGS,DACH,Online,-86354.15
+2025-03-01,6000,Sales & Marketing,DACH,Online,-39550.82
+2025-03-01,6100,R&D,DACH,Online,-26367.22
+2025-03-01,6200,G&A,DACH,Online,-21972.68
+2025-03-01,4000,Revenue,DACH,Enterprise,174300.86
+2025-03-01,5000,COGS,DACH,Enterprise,-84541.93
+2025-03-01,6000,Sales & Marketing,DACH,Enterprise,-32342.43
+2025-03-01,6100,R&D,DACH,Enterprise,-21561.62
+2025-03-01,6200,G&A,DACH,Enterprise,-17968.01
+2025-03-01,4000,Revenue,France,Online,239962.94
+2025-03-01,5000,COGS,France,Online,-88886.58
+2025-03-01,6000,Sales & Marketing,France,Online,-28421.05
+2025-03-01,6100,R&D,France,Online,-18947.37
+2025-03-01,6200,G&A,France,Online,-15789.47
+2025-03-01,4000,Revenue,France,Enterprise,244138.15
+2025-03-01,5000,COGS,France,Enterprise,-90532.09
+2025-03-01,6000,Sales & Marketing,France,Enterprise,-23474.24
+2025-03-01,6100,R&D,France,Enterprise,-15649.49
+2025-03-01,6200,G&A,France,Enterprise,-13041.25
+2025-03-01,4000,Revenue,France,Online,150625.99
+2025-03-01,5000,COGS,France,Online,-68547.59
+2025-03-01,6000,Sales & Marketing,France,Online,-31962.08
+2025-03-01,6100,R&D,France,Online,-21308.05
+2025-03-01,6200,G&A,France,Online,-17756.71
+2025-03-01,4000,Revenue,France,Enterprise,116241.67
+2025-03-01,5000,COGS,France,Enterprise,-51549.22
+2025-03-01,6000,Sales & Marketing,France,Enterprise,-25309.98
+2025-03-01,6100,R&D,France,Enterprise,-16873.32
+2025-03-01,6200,G&A,France,Enterprise,-14061.1
+2025-03-01,4000,Revenue,Italy,Online,180281.48
+2025-03-01,5000,COGS,Italy,Online,-65032.44
+2025-03-01,6000,Sales & Marketing,Italy,Online,-21057.08
+2025-03-01,6100,R&D,Italy,Online,-14038.05
+2025-03-01,6200,G&A,Italy,Online,-11698.38
+2025-03-01,4000,Revenue,Italy,Enterprise,188102.58
+2025-03-01,5000,COGS,Italy,Enterprise,-75666.02
+2025-03-01,6000,Sales & Marketing,Italy,Enterprise,-20250.06
+2025-03-01,6100,R&D,Italy,Enterprise,-13500.04
+2025-03-01,6200,G&A,Italy,Enterprise,-11250.03
+2025-03-01,4000,Revenue,Italy,Online,117891.83
+2025-03-01,5000,COGS,Italy,Online,-54095.95
+2025-03-01,6000,Sales & Marketing,Italy,Online,-27363.91
+2025-03-01,6100,R&D,Italy,Online,-18242.61
+2025-03-01,6200,G&A,Italy,Online,-15202.17
+2025-03-01,4000,Revenue,Italy,Enterprise,107550.39
+2025-03-01,5000,COGS,Italy,Enterprise,-47514.52
+2025-03-01,6000,Sales & Marketing,Italy,Enterprise,-23975.5
+2025-03-01,6100,R&D,Italy,Enterprise,-15983.66
+2025-03-01,6200,G&A,Italy,Enterprise,-13319.72
+2025-03-01,4000,Revenue,Spain,Online,218812.33
+2025-03-01,5000,COGS,Spain,Online,-85982.24
+2025-03-01,6000,Sales & Marketing,Spain,Online,-24030.74
+2025-03-01,6100,R&D,Spain,Online,-16020.49
+2025-03-01,6200,G&A,Spain,Online,-13350.41
+2025-03-01,4000,Revenue,Spain,Enterprise,210087.32
+2025-03-01,5000,COGS,Spain,Enterprise,-75484.05
+2025-03-01,6000,Sales & Marketing,Spain,Enterprise,-21848.85
+2025-03-01,6100,R&D,Spain,Enterprise,-14565.9
+2025-03-01,6200,G&A,Spain,Enterprise,-12138.25
+2025-03-01,4000,Revenue,Spain,Online,131373.99
+2025-03-01,5000,COGS,Spain,Online,-57237.3
+2025-03-01,6000,Sales & Marketing,Spain,Online,-23386.66
+2025-03-01,6100,R&D,Spain,Online,-15591.1
+2025-03-01,6200,G&A,Spain,Online,-12992.59
+2025-03-01,4000,Revenue,Spain,Enterprise,125936.89
+2025-03-01,5000,COGS,Spain,Enterprise,-57047.01
+2025-03-01,6000,Sales & Marketing,Spain,Enterprise,-22312.69
+2025-03-01,6100,R&D,Spain,Enterprise,-14875.12
+2025-03-01,6200,G&A,Spain,Enterprise,-12395.94
+2025-04-01,4000,Revenue,DACH,Online,301826.96
+2025-04-01,5000,COGS,DACH,Online,-121503.58
+2025-04-01,6000,Sales & Marketing,DACH,Online,-27316.09
+2025-04-01,6100,R&D,DACH,Online,-18210.73
+2025-04-01,6200,G&A,DACH,Online,-15175.6
+2025-04-01,4000,Revenue,DACH,Enterprise,251198.15
+2025-04-01,5000,COGS,DACH,Enterprise,-90818.75
+2025-04-01,6000,Sales & Marketing,DACH,Enterprise,-33925.67
+2025-04-01,6100,R&D,DACH,Enterprise,-22617.11
+2025-04-01,6200,G&A,DACH,Enterprise,-18847.59
+2025-04-01,4000,Revenue,DACH,Online,185235.65
+2025-04-01,5000,COGS,DACH,Online,-88051.09
+2025-04-01,6000,Sales & Marketing,DACH,Online,-33738.72
+2025-04-01,6100,R&D,DACH,Online,-22492.48
+2025-04-01,6200,G&A,DACH,Online,-18743.74
+2025-04-01,4000,Revenue,DACH,Enterprise,154465.52
+2025-04-01,5000,COGS,DACH,Enterprise,-72437.58
+2025-04-01,6000,Sales & Marketing,DACH,Enterprise,-33907.34
+2025-04-01,6100,R&D,DACH,Enterprise,-22604.89
+2025-04-01,6200,G&A,DACH,Enterprise,-18837.41
+2025-04-01,4000,Revenue,France,Online,250859.17
+2025-04-01,5000,COGS,France,Online,-94384.91
+2025-04-01,6000,Sales & Marketing,France,Online,-27324.78
+2025-04-01,6100,R&D,France,Online,-18216.52
+2025-04-01,6200,G&A,France,Online,-15180.43
+2025-04-01,4000,Revenue,France,Enterprise,222879.23
+2025-04-01,5000,COGS,France,Enterprise,-88161.07
+2025-04-01,6000,Sales & Marketing,France,Enterprise,-25868.83
+2025-04-01,6100,R&D,France,Enterprise,-17245.88
+2025-04-01,6200,G&A,France,Enterprise,-14371.57
+2025-04-01,4000,Revenue,France,Online,131555.19
+2025-04-01,5000,COGS,France,Online,-54602.59
+2025-04-01,6000,Sales & Marketing,France,Online,-32080.15
+2025-04-01,6100,R&D,France,Online,-21386.77
+2025-04-01,6200,G&A,France,Online,-17822.31
+2025-04-01,4000,Revenue,France,Enterprise,141911.1
+2025-04-01,5000,COGS,France,Enterprise,-62382.35
+2025-04-01,6000,Sales & Marketing,France,Enterprise,-22982.76
+2025-04-01,6100,R&D,France,Enterprise,-15321.84
+2025-04-01,6200,G&A,France,Enterprise,-12768.2
+2025-04-01,4000,Revenue,Italy,Online,207660.26
+2025-04-01,5000,COGS,Italy,Online,-82776.86
+2025-04-01,6000,Sales & Marketing,Italy,Online,-25987.88
+2025-04-01,6100,R&D,Italy,Online,-17325.25
+2025-04-01,6200,G&A,Italy,Online,-14437.71
+2025-04-01,4000,Revenue,Italy,Enterprise,193480.44
+2025-04-01,5000,COGS,Italy,Enterprise,-72084.17
+2025-04-01,6000,Sales & Marketing,Italy,Enterprise,-19179.19
+2025-04-01,6100,R&D,Italy,Enterprise,-12786.13
+2025-04-01,6200,G&A,Italy,Enterprise,-10655.1
+2025-04-01,4000,Revenue,Italy,Online,123945.27
+2025-04-01,5000,COGS,Italy,Online,-56272.97
+2025-04-01,6000,Sales & Marketing,Italy,Online,-23194.97
+2025-04-01,6100,R&D,Italy,Online,-15463.31
+2025-04-01,6200,G&A,Italy,Online,-12886.09
+2025-04-01,4000,Revenue,Italy,Enterprise,126441.56
+2025-04-01,5000,COGS,Italy,Enterprise,-62677.51
+2025-04-01,6000,Sales & Marketing,Italy,Enterprise,-25035.79
+2025-04-01,6100,R&D,Italy,Enterprise,-16690.52
+2025-04-01,6200,G&A,Italy,Enterprise,-13908.77
+2025-04-01,4000,Revenue,Spain,Online,206500.17
+2025-04-01,5000,COGS,Spain,Online,-82001.3
+2025-04-01,6000,Sales & Marketing,Spain,Online,-25288.0
+2025-04-01,6100,R&D,Spain,Online,-16858.67
+2025-04-01,6200,G&A,Spain,Online,-14048.89
+2025-04-01,4000,Revenue,Spain,Enterprise,203982.34
+2025-04-01,5000,COGS,Spain,Enterprise,-82611.48
+2025-04-01,6000,Sales & Marketing,Spain,Enterprise,-22981.64
+2025-04-01,6100,R&D,Spain,Enterprise,-15321.1
+2025-04-01,6200,G&A,Spain,Enterprise,-12767.58
+2025-04-01,4000,Revenue,Spain,Online,136969.06
+2025-04-01,5000,COGS,Spain,Online,-64750.49
+2025-04-01,6000,Sales & Marketing,Spain,Online,-27458.75
+2025-04-01,6100,R&D,Spain,Online,-18305.83
+2025-04-01,6200,G&A,Spain,Online,-15254.86
+2025-04-01,4000,Revenue,Spain,Enterprise,106464.77
+2025-04-01,5000,COGS,Spain,Enterprise,-49151.85
+2025-04-01,6000,Sales & Marketing,Spain,Enterprise,-23218.76
+2025-04-01,6100,R&D,Spain,Enterprise,-15479.17
+2025-04-01,6200,G&A,Spain,Enterprise,-12899.31
+2025-05-01,4000,Revenue,DACH,Online,269115.58
+2025-05-01,5000,COGS,DACH,Online,-111315.98
+2025-05-01,6000,Sales & Marketing,DACH,Online,-38034.1
+2025-05-01,6100,R&D,DACH,Online,-25356.07
+2025-05-01,6200,G&A,DACH,Online,-21130.06
+2025-05-01,4000,Revenue,DACH,Enterprise,286611.61
+2025-05-01,5000,COGS,DACH,Enterprise,-110375.35
+2025-05-01,6000,Sales & Marketing,DACH,Enterprise,-33657.02
+2025-05-01,6100,R&D,DACH,Enterprise,-22438.01
+2025-05-01,6200,G&A,DACH,Enterprise,-18698.35
+2025-05-01,4000,Revenue,DACH,Online,175026.49
+2025-05-01,5000,COGS,DACH,Online,-81222.08
+2025-05-01,6000,Sales & Marketing,DACH,Online,-33877.39
+2025-05-01,6100,R&D,DACH,Online,-22584.93
+2025-05-01,6200,G&A,DACH,Online,-18820.77
+2025-05-01,4000,Revenue,DACH,Enterprise,162787.3
+2025-05-01,5000,COGS,DACH,Enterprise,-75078.76
+2025-05-01,6000,Sales & Marketing,DACH,Enterprise,-30232.84
+2025-05-01,6100,R&D,DACH,Enterprise,-20155.23
+2025-05-01,6200,G&A,DACH,Enterprise,-16796.02
+2025-05-01,4000,Revenue,France,Online,232483.65
+2025-05-01,5000,COGS,France,Online,-87973.07
+2025-05-01,6000,Sales & Marketing,France,Online,-30573.9
+2025-05-01,6100,R&D,France,Online,-20382.6
+2025-05-01,6200,G&A,France,Online,-16985.5
+2025-05-01,4000,Revenue,France,Enterprise,223374.39
+2025-05-01,5000,COGS,France,Enterprise,-84933.4
+2025-05-01,6000,Sales & Marketing,France,Enterprise,-24783.64
+2025-05-01,6100,R&D,France,Enterprise,-16522.43
+2025-05-01,6200,G&A,France,Enterprise,-13768.69
+2025-05-01,4000,Revenue,France,Online,140291.17
+2025-05-01,5000,COGS,France,Online,-63964.6
+2025-05-01,6000,Sales & Marketing,France,Online,-27128.15
+2025-05-01,6100,R&D,France,Online,-18085.43
+2025-05-01,6200,G&A,France,Online,-15071.19
+2025-05-01,4000,Revenue,France,Enterprise,126047.17
+2025-05-01,5000,COGS,France,Enterprise,-56100.83
+2025-05-01,6000,Sales & Marketing,France,Enterprise,-24299.32
+2025-05-01,6100,R&D,France,Enterprise,-16199.55
+2025-05-01,6200,G&A,France,Enterprise,-13499.62
+2025-05-01,4000,Revenue,Italy,Online,204300.06
+2025-05-01,5000,COGS,Italy,Online,-79232.73
+2025-05-01,6000,Sales & Marketing,Italy,Online,-19472.91
+2025-05-01,6100,R&D,Italy,Online,-12981.94
+2025-05-01,6200,G&A,Italy,Online,-10818.28
+2025-05-01,4000,Revenue,Italy,Enterprise,178873.53
+2025-05-01,5000,COGS,Italy,Enterprise,-71534.04
+2025-05-01,6000,Sales & Marketing,Italy,Enterprise,-22405.26
+2025-05-01,6100,R&D,Italy,Enterprise,-14936.84
+2025-05-01,6200,G&A,Italy,Enterprise,-12447.37
+2025-05-01,4000,Revenue,Italy,Online,126252.29
+2025-05-01,5000,COGS,Italy,Online,-58174.31
+2025-05-01,6000,Sales & Marketing,Italy,Online,-23538.35
+2025-05-01,6100,R&D,Italy,Online,-15692.23
+2025-05-01,6200,G&A,Italy,Online,-13076.86
+2025-05-01,4000,Revenue,Italy,Enterprise,101089.83
+2025-05-01,5000,COGS,Italy,Enterprise,-47198.04
+2025-05-01,6000,Sales & Marketing,Italy,Enterprise,-23646.36
+2025-05-01,6100,R&D,Italy,Enterprise,-15764.24
+2025-05-01,6200,G&A,Italy,Enterprise,-13136.86
+2025-05-01,4000,Revenue,Spain,Online,226091.1
+2025-05-01,5000,COGS,Spain,Online,-90888.53
+2025-05-01,6000,Sales & Marketing,Spain,Online,-23802.52
+2025-05-01,6100,R&D,Spain,Online,-15868.34
+2025-05-01,6200,G&A,Spain,Online,-13223.62
+2025-05-01,4000,Revenue,Spain,Enterprise,176556.33
+2025-05-01,5000,COGS,Spain,Enterprise,-65964.6
+2025-05-01,6000,Sales & Marketing,Spain,Enterprise,-22250.07
+2025-05-01,6100,R&D,Spain,Enterprise,-14833.38
+2025-05-01,6200,G&A,Spain,Enterprise,-12361.15
+2025-05-01,4000,Revenue,Spain,Online,124401.12
+2025-05-01,5000,COGS,Spain,Online,-55786.7
+2025-05-01,6000,Sales & Marketing,Spain,Online,-27270.77
+2025-05-01,6100,R&D,Spain,Online,-18180.51
+2025-05-01,6200,G&A,Spain,Online,-15150.43
+2025-05-01,4000,Revenue,Spain,Enterprise,111018.42
+2025-05-01,5000,COGS,Spain,Enterprise,-49673.93
+2025-05-01,6000,Sales & Marketing,Spain,Enterprise,-24905.47
+2025-05-01,6100,R&D,Spain,Enterprise,-16603.64
+2025-05-01,6200,G&A,Spain,Enterprise,-13836.37
+2025-06-01,4000,Revenue,DACH,Online,268367.12
+2025-06-01,5000,COGS,DACH,Online,-103289.7
+2025-06-01,6000,Sales & Marketing,DACH,Online,-34142.77
+2025-06-01,6100,R&D,DACH,Online,-22761.85
+2025-06-01,6200,G&A,DACH,Online,-18968.21
+2025-06-01,4000,Revenue,DACH,Enterprise,232908.56
+2025-06-01,5000,COGS,DACH,Enterprise,-86263.55
+2025-06-01,6000,Sales & Marketing,DACH,Enterprise,-33868.8
+2025-06-01,6100,R&D,DACH,Enterprise,-22579.2
+2025-06-01,6200,G&A,DACH,Enterprise,-18816.0
+2025-06-01,4000,Revenue,DACH,Online,153495.41
+2025-06-01,5000,COGS,DACH,Online,-64109.95
+2025-06-01,6000,Sales & Marketing,DACH,Online,-31595.32
+2025-06-01,6100,R&D,DACH,Online,-21063.55
+2025-06-01,6200,G&A,DACH,Online,-17552.96
+2025-06-01,4000,Revenue,DACH,Enterprise,150261.99
+2025-06-01,5000,COGS,DACH,Enterprise,-69213.43
+2025-06-01,6000,Sales & Marketing,DACH,Enterprise,-33432.45
+2025-06-01,6100,R&D,DACH,Enterprise,-22288.3
+2025-06-01,6200,G&A,DACH,Enterprise,-18573.58
+2025-06-01,4000,Revenue,France,Online,236027.31
+2025-06-01,5000,COGS,France,Online,-77073.14
+2025-06-01,6000,Sales & Marketing,France,Online,-27576.67
+2025-06-01,6100,R&D,France,Online,-18384.44
+2025-06-01,6200,G&A,France,Online,-15320.37
+2025-06-01,4000,Revenue,France,Enterprise,218737.26
+2025-06-01,5000,COGS,France,Enterprise,-78186.4
+2025-06-01,6000,Sales & Marketing,France,Enterprise,-23561.66
+2025-06-01,6100,R&D,France,Enterprise,-15707.77
+2025-06-01,6200,G&A,France,Enterprise,-13089.81
+2025-06-01,4000,Revenue,France,Online,126037.1
+2025-06-01,5000,COGS,France,Online,-55722.65
+2025-06-01,6000,Sales & Marketing,France,Online,-28924.8
+2025-06-01,6100,R&D,France,Online,-19283.2
+2025-06-01,6200,G&A,France,Online,-16069.33
+2025-06-01,4000,Revenue,France,Enterprise,130277.89
+2025-06-01,5000,COGS,France,Enterprise,-64715.25
+2025-06-01,6000,Sales & Marketing,France,Enterprise,-26274.37
+2025-06-01,6100,R&D,France,Enterprise,-17516.25
+2025-06-01,6200,G&A,France,Enterprise,-14596.87
+2025-06-01,4000,Revenue,Italy,Online,208374.78
+2025-06-01,5000,COGS,Italy,Online,-79330.68
+2025-06-01,6000,Sales & Marketing,Italy,Online,-25908.08
+2025-06-01,6100,R&D,Italy,Online,-17272.05
+2025-06-01,6200,G&A,Italy,Online,-14393.38
+2025-06-01,4000,Revenue,Italy,Enterprise,169048.35
+2025-06-01,5000,COGS,Italy,Enterprise,-64681.48
+2025-06-01,6000,Sales & Marketing,Italy,Enterprise,-21258.91
+2025-06-01,6100,R&D,Italy,Enterprise,-14172.61
+2025-06-01,6200,G&A,Italy,Enterprise,-11810.5
+2025-06-01,4000,Revenue,Italy,Online,133600.04
+2025-06-01,5000,COGS,Italy,Online,-63730.66
+2025-06-01,6000,Sales & Marketing,Italy,Online,-23816.61
+2025-06-01,6100,R&D,Italy,Online,-15877.74
+2025-06-01,6200,G&A,Italy,Online,-13231.45
+2025-06-01,4000,Revenue,Italy,Enterprise,107930.27
+2025-06-01,5000,COGS,Italy,Enterprise,-48866.87
+2025-06-01,6000,Sales & Marketing,Italy,Enterprise,-22050.82
+2025-06-01,6100,R&D,Italy,Enterprise,-14700.55
+2025-06-01,6200,G&A,Italy,Enterprise,-12250.45
+2025-06-01,4000,Revenue,Spain,Online,208794.18
+2025-06-01,5000,COGS,Spain,Online,-79471.6
+2025-06-01,6000,Sales & Marketing,Spain,Online,-24593.13
+2025-06-01,6100,R&D,Spain,Online,-16395.42
+2025-06-01,6200,G&A,Spain,Online,-13662.85
+2025-06-01,4000,Revenue,Spain,Enterprise,180151.04
+2025-06-01,5000,COGS,Spain,Enterprise,-69670.11
+2025-06-01,6000,Sales & Marketing,Spain,Enterprise,-22613.52
+2025-06-01,6100,R&D,Spain,Enterprise,-15075.68
+2025-06-01,6200,G&A,Spain,Enterprise,-12563.07
+2025-06-01,4000,Revenue,Spain,Online,104993.3
+2025-06-01,5000,COGS,Spain,Online,-49696.63
+2025-06-01,6000,Sales & Marketing,Spain,Online,-24630.05
+2025-06-01,6100,R&D,Spain,Online,-16420.03
+2025-06-01,6200,G&A,Spain,Online,-13683.36
+2025-06-01,4000,Revenue,Spain,Enterprise,98653.9
+2025-06-01,5000,COGS,Spain,Enterprise,-45265.54
+2025-06-01,6000,Sales & Marketing,Spain,Enterprise,-24463.26
+2025-06-01,6100,R&D,Spain,Enterprise,-16308.84
+2025-06-01,6200,G&A,Spain,Enterprise,-13590.7
+2025-07-01,4000,Revenue,DACH,Online,247743.72
+2025-07-01,5000,COGS,DACH,Online,-98260.27
+2025-07-01,6000,Sales & Marketing,DACH,Online,-29824.87
+2025-07-01,6100,R&D,DACH,Online,-19883.24
+2025-07-01,6200,G&A,DACH,Online,-16569.37
+2025-07-01,4000,Revenue,DACH,Enterprise,229262.09
+2025-07-01,5000,COGS,DACH,Enterprise,-84437.81
+2025-07-01,6000,Sales & Marketing,DACH,Enterprise,-30261.79
+2025-07-01,6100,R&D,DACH,Enterprise,-20174.53
+2025-07-01,6200,G&A,DACH,Enterprise,-16812.11
+2025-07-01,4000,Revenue,DACH,Online,157695.11
+2025-07-01,5000,COGS,DACH,Online,-69360.96
+2025-07-01,6000,Sales & Marketing,DACH,Online,-39276.12
+2025-07-01,6100,R&D,DACH,Online,-26184.08
+2025-07-01,6200,G&A,DACH,Online,-21820.07
+2025-07-01,4000,Revenue,DACH,Enterprise,141533.0
+2025-07-01,5000,COGS,DACH,Enterprise,-59749.72
+2025-07-01,6000,Sales & Marketing,DACH,Enterprise,-28461.8
+2025-07-01,6100,R&D,DACH,Enterprise,-18974.53
+2025-07-01,6200,G&A,DACH,Enterprise,-15812.11
+2025-07-01,4000,Revenue,France,Online,206647.14
+2025-07-01,5000,COGS,France,Online,-77612.67
+2025-07-01,6000,Sales & Marketing,France,Online,-26508.85
+2025-07-01,6100,R&D,France,Online,-17672.56
+2025-07-01,6200,G&A,France,Online,-14727.14
+2025-07-01,4000,Revenue,France,Enterprise,187684.36
+2025-07-01,5000,COGS,France,Enterprise,-72166.74
+2025-07-01,6000,Sales & Marketing,France,Enterprise,-26142.23
+2025-07-01,6100,R&D,France,Enterprise,-17428.15
+2025-07-01,6200,G&A,France,Enterprise,-14523.46
+2025-07-01,4000,Revenue,France,Online,115808.05
+2025-07-01,5000,COGS,France,Online,-50557.23
+2025-07-01,6000,Sales & Marketing,France,Online,-27102.26
+2025-07-01,6100,R&D,France,Online,-18068.17
+2025-07-01,6200,G&A,France,Online,-15056.81
+2025-07-01,4000,Revenue,France,Enterprise,114755.39
+2025-07-01,5000,COGS,France,Enterprise,-55644.77
+2025-07-01,6000,Sales & Marketing,France,Enterprise,-26068.31
+2025-07-01,6100,R&D,France,Enterprise,-17378.87
+2025-07-01,6200,G&A,France,Enterprise,-14482.39
+2025-07-01,4000,Revenue,Italy,Online,149395.07
+2025-07-01,5000,COGS,Italy,Online,-51678.76
+2025-07-01,6000,Sales & Marketing,Italy,Online,-21206.34
+2025-07-01,6100,R&D,Italy,Online,-14137.56
+2025-07-01,6200,G&A,Italy,Online,-11781.3
+2025-07-01,4000,Revenue,Italy,Enterprise,154452.5
+2025-07-01,5000,COGS,Italy,Enterprise,-57430.42
+2025-07-01,6000,Sales & Marketing,Italy,Enterprise,-20718.75
+2025-07-01,6100,R&D,Italy,Enterprise,-13812.5
+2025-07-01,6200,G&A,Italy,Enterprise,-11510.42
+2025-07-01,4000,Revenue,Italy,Online,103495.24
+2025-07-01,5000,COGS,Italy,Online,-49779.85
+2025-07-01,6000,Sales & Marketing,Italy,Online,-23879.71
+2025-07-01,6100,R&D,Italy,Online,-15919.81
+2025-07-01,6200,G&A,Italy,Online,-13266.51
+2025-07-01,4000,Revenue,Italy,Enterprise,90919.26
+2025-07-01,5000,COGS,Italy,Enterprise,-42693.64
+2025-07-01,6000,Sales & Marketing,Italy,Enterprise,-20130.56
+2025-07-01,6100,R&D,Italy,Enterprise,-13420.37
+2025-07-01,6200,G&A,Italy,Enterprise,-11183.65
+2025-07-01,4000,Revenue,Spain,Online,190471.77
+2025-07-01,5000,COGS,Spain,Online,-72769.94
+2025-07-01,6000,Sales & Marketing,Spain,Online,-23773.24
+2025-07-01,6100,R&D,Spain,Online,-15848.83
+2025-07-01,6200,G&A,Spain,Online,-13207.35
+2025-07-01,4000,Revenue,Spain,Enterprise,185324.18
+2025-07-01,5000,COGS,Spain,Enterprise,-68116.99
+2025-07-01,6000,Sales & Marketing,Spain,Enterprise,-25474.7
+2025-07-01,6100,R&D,Spain,Enterprise,-16983.13
+2025-07-01,6200,G&A,Spain,Enterprise,-14152.61
+2025-07-01,4000,Revenue,Spain,Online,110161.54
+2025-07-01,5000,COGS,Spain,Online,-47860.75
+2025-07-01,6000,Sales & Marketing,Spain,Online,-26879.52
+2025-07-01,6100,R&D,Spain,Online,-17919.68
+2025-07-01,6200,G&A,Spain,Online,-14933.07
+2025-07-01,4000,Revenue,Spain,Enterprise,94964.38
+2025-07-01,5000,COGS,Spain,Enterprise,-42255.81
+2025-07-01,6000,Sales & Marketing,Spain,Enterprise,-25071.83
+2025-07-01,6100,R&D,Spain,Enterprise,-16714.55
+2025-07-01,6200,G&A,Spain,Enterprise,-13928.8
+2025-08-01,4000,Revenue,DACH,Online,254635.59
+2025-08-01,5000,COGS,DACH,Online,-93593.0
+2025-08-01,6000,Sales & Marketing,DACH,Online,-36051.84
+2025-08-01,6100,R&D,DACH,Online,-24034.56
+2025-08-01,6200,G&A,DACH,Online,-20028.8
+2025-08-01,4000,Revenue,DACH,Enterprise,239577.48
+2025-08-01,5000,COGS,DACH,Enterprise,-97921.55
+2025-08-01,6000,Sales & Marketing,DACH,Enterprise,-31661.47
+2025-08-01,6100,R&D,DACH,Enterprise,-21107.65
+2025-08-01,6200,G&A,DACH,Enterprise,-17589.71
+2025-08-01,4000,Revenue,DACH,Online,159947.89
+2025-08-01,5000,COGS,DACH,Online,-67559.44
+2025-08-01,6000,Sales & Marketing,DACH,Online,-36180.82
+2025-08-01,6100,R&D,DACH,Online,-24120.55
+2025-08-01,6200,G&A,DACH,Online,-20100.46
+2025-08-01,4000,Revenue,DACH,Enterprise,127419.41
+2025-08-01,5000,COGS,DACH,Enterprise,-58916.76
+2025-08-01,6000,Sales & Marketing,DACH,Enterprise,-32207.09
+2025-08-01,6100,R&D,DACH,Enterprise,-21471.39
+2025-08-01,6200,G&A,DACH,Enterprise,-17892.83
+2025-08-01,4000,Revenue,France,Online,195171.58
+2025-08-01,5000,COGS,France,Online,-81512.14
+2025-08-01,6000,Sales & Marketing,France,Online,-26367.07
+2025-08-01,6100,R&D,France,Online,-17578.05
+2025-08-01,6200,G&A,France,Online,-14648.37
+2025-08-01,4000,Revenue,France,Enterprise,183664.87
+2025-08-01,5000,COGS,France,Enterprise,-68939.46
+2025-08-01,6000,Sales & Marketing,France,Enterprise,-24447.19
+2025-08-01,6100,R&D,France,Enterprise,-16298.12
+2025-08-01,6200,G&A,France,Enterprise,-13581.77
+2025-08-01,4000,Revenue,France,Online,118324.86
+2025-08-01,5000,COGS,France,Online,-55490.39
+2025-08-01,6000,Sales & Marketing,France,Online,-32468.77
+2025-08-01,6100,R&D,France,Online,-21645.85
+2025-08-01,6200,G&A,France,Online,-18038.21
+2025-08-01,4000,Revenue,France,Enterprise,118157.82
+2025-08-01,5000,COGS,France,Enterprise,-55084.28
+2025-08-01,6000,Sales & Marketing,France,Enterprise,-28273.42
+2025-08-01,6100,R&D,France,Enterprise,-18848.95
+2025-08-01,6200,G&A,France,Enterprise,-15707.46
+2025-08-01,4000,Revenue,Italy,Online,155995.62
+2025-08-01,5000,COGS,Italy,Online,-59004.17
+2025-08-01,6000,Sales & Marketing,Italy,Online,-24429.61
+2025-08-01,6100,R&D,Italy,Online,-16286.41
+2025-08-01,6200,G&A,Italy,Online,-13572.0
+2025-08-01,4000,Revenue,Italy,Enterprise,160248.02
+2025-08-01,5000,COGS,Italy,Enterprise,-61572.45
+2025-08-01,6000,Sales & Marketing,Italy,Enterprise,-22119.68
+2025-08-01,6100,R&D,Italy,Enterprise,-14746.45
+2025-08-01,6200,G&A,Italy,Enterprise,-12288.71
+2025-08-01,4000,Revenue,Italy,Online,103500.33
+2025-08-01,5000,COGS,Italy,Online,-50094.79
+2025-08-01,6000,Sales & Marketing,Italy,Online,-25829.39
+2025-08-01,6100,R&D,Italy,Online,-17219.59
+2025-08-01,6200,G&A,Italy,Online,-14349.66
+2025-08-01,4000,Revenue,Italy,Enterprise,89449.2
+2025-08-01,5000,COGS,Italy,Enterprise,-41747.45
+2025-08-01,6000,Sales & Marketing,Italy,Enterprise,-17569.43
+2025-08-01,6100,R&D,Italy,Enterprise,-11712.95
+2025-08-01,6200,G&A,Italy,Enterprise,-9760.79
+2025-08-01,4000,Revenue,Spain,Online,181499.21
+2025-08-01,5000,COGS,Spain,Online,-55726.02
+2025-08-01,6000,Sales & Marketing,Spain,Online,-20740.09
+2025-08-01,6100,R&D,Spain,Online,-13826.73
+2025-08-01,6200,G&A,Spain,Online,-11522.27
+2025-08-01,4000,Revenue,Spain,Enterprise,165665.9
+2025-08-01,5000,COGS,Spain,Enterprise,-64535.25
+2025-08-01,6000,Sales & Marketing,Spain,Enterprise,-19836.22
+2025-08-01,6100,R&D,Spain,Enterprise,-13224.14
+2025-08-01,6200,G&A,Spain,Enterprise,-11020.12
+2025-08-01,4000,Revenue,Spain,Online,101905.58
+2025-08-01,5000,COGS,Spain,Online,-49669.88
+2025-08-01,6000,Sales & Marketing,Spain,Online,-25694.95
+2025-08-01,6100,R&D,Spain,Online,-17129.97
+2025-08-01,6200,G&A,Spain,Online,-14274.97
+2025-08-01,4000,Revenue,Spain,Enterprise,109800.0
+2025-08-01,5000,COGS,Spain,Enterprise,-50503.79
+2025-08-01,6000,Sales & Marketing,Spain,Enterprise,-25093.22
+2025-08-01,6100,R&D,Spain,Enterprise,-16728.82
+2025-08-01,6200,G&A,Spain,Enterprise,-13940.68
+2025-09-01,4000,Revenue,DACH,Online,265477.02
+2025-09-01,5000,COGS,DACH,Online,-101576.96
+2025-09-01,6000,Sales & Marketing,DACH,Online,-30733.24
+2025-09-01,6100,R&D,DACH,Online,-20488.82
+2025-09-01,6200,G&A,DACH,Online,-17074.02
+2025-09-01,4000,Revenue,DACH,Enterprise,218551.6
+2025-09-01,5000,COGS,DACH,Enterprise,-82893.95
+2025-09-01,6000,Sales & Marketing,DACH,Enterprise,-27058.68
+2025-09-01,6100,R&D,DACH,Enterprise,-18039.12
+2025-09-01,6200,G&A,DACH,Enterprise,-15032.6
+2025-09-01,4000,Revenue,DACH,Online,142971.19
+2025-09-01,5000,COGS,DACH,Online,-63644.51
+2025-09-01,6000,Sales & Marketing,DACH,Online,-39870.34
+2025-09-01,6100,R&D,DACH,Online,-26580.23
+2025-09-01,6200,G&A,DACH,Online,-22150.19
+2025-09-01,4000,Revenue,DACH,Enterprise,132274.13
+2025-09-01,5000,COGS,DACH,Enterprise,-60097.97
+2025-09-01,6000,Sales & Marketing,DACH,Enterprise,-33463.31
+2025-09-01,6100,R&D,DACH,Enterprise,-22308.87
+2025-09-01,6200,G&A,DACH,Enterprise,-18590.73
+2025-09-01,4000,Revenue,France,Online,196191.79
+2025-09-01,5000,COGS,France,Online,-76973.16
+2025-09-01,6000,Sales & Marketing,France,Online,-24592.22
+2025-09-01,6100,R&D,France,Online,-16394.81
+2025-09-01,6200,G&A,France,Online,-13662.34
+2025-09-01,4000,Revenue,France,Enterprise,165000.83
+2025-09-01,5000,COGS,France,Enterprise,-66345.78
+2025-09-01,6000,Sales & Marketing,France,Enterprise,-23498.42
+2025-09-01,6100,R&D,France,Enterprise,-15665.61
+2025-09-01,6200,G&A,France,Enterprise,-13054.67
+2025-09-01,4000,Revenue,France,Online,106285.18
+2025-09-01,5000,COGS,France,Online,-49834.6
+2025-09-01,6000,Sales & Marketing,France,Online,-30800.97
+2025-09-01,6100,R&D,France,Online,-20533.98
+2025-09-01,6200,G&A,France,Online,-17111.65
+2025-09-01,4000,Revenue,France,Enterprise,95901.39
+2025-09-01,5000,COGS,France,Enterprise,-44554.79
+2025-09-01,6000,Sales & Marketing,France,Enterprise,-28588.86
+2025-09-01,6100,R&D,France,Enterprise,-19059.24
+2025-09-01,6200,G&A,France,Enterprise,-15882.7
+2025-09-01,4000,Revenue,Italy,Online,168256.54
+2025-09-01,5000,COGS,Italy,Online,-66064.19
+2025-09-01,6000,Sales & Marketing,Italy,Online,-20168.05
+2025-09-01,6100,R&D,Italy,Online,-13445.36
+2025-09-01,6200,G&A,Italy,Online,-11204.47
+2025-09-01,4000,Revenue,Italy,Enterprise,152571.42
+2025-09-01,5000,COGS,Italy,Enterprise,-57053.72
+2025-09-01,6000,Sales & Marketing,Italy,Enterprise,-19857.24
+2025-09-01,6100,R&D,Italy,Enterprise,-13238.16
+2025-09-01,6200,G&A,Italy,Enterprise,-11031.8
+2025-09-01,4000,Revenue,Italy,Online,103893.31
+2025-09-01,5000,COGS,Italy,Online,-50864.66
+2025-09-01,6000,Sales & Marketing,Italy,Online,-28868.91
+2025-09-01,6100,R&D,Italy,Online,-19245.94
+2025-09-01,6200,G&A,Italy,Online,-16038.28
+2025-09-01,4000,Revenue,Italy,Enterprise,96841.03
+2025-09-01,5000,COGS,Italy,Enterprise,-44334.34
+2025-09-01,6000,Sales & Marketing,Italy,Enterprise,-23597.6
+2025-09-01,6100,R&D,Italy,Enterprise,-15731.73
+2025-09-01,6200,G&A,Italy,Enterprise,-13109.77
+2025-09-01,4000,Revenue,Spain,Online,182256.67
+2025-09-01,5000,COGS,Spain,Online,-69699.25
+2025-09-01,6000,Sales & Marketing,Spain,Online,-24308.66
+2025-09-01,6100,R&D,Spain,Online,-16205.77
+2025-09-01,6200,G&A,Spain,Online,-13504.81
+2025-09-01,4000,Revenue,Spain,Enterprise,166228.95
+2025-09-01,5000,COGS,Spain,Enterprise,-62969.91
+2025-09-01,6000,Sales & Marketing,Spain,Enterprise,-20594.04
+2025-09-01,6100,R&D,Spain,Enterprise,-13729.36
+2025-09-01,6200,G&A,Spain,Enterprise,-11441.13
+2025-09-01,4000,Revenue,Spain,Online,101944.16
+2025-09-01,5000,COGS,Spain,Online,-48186.78
+2025-09-01,6000,Sales & Marketing,Spain,Online,-26736.4
+2025-09-01,6100,R&D,Spain,Online,-17824.27
+2025-09-01,6200,G&A,Spain,Online,-14853.56
+2025-09-01,4000,Revenue,Spain,Enterprise,96980.01
+2025-09-01,5000,COGS,Spain,Enterprise,-45910.49
+2025-09-01,6000,Sales & Marketing,Spain,Enterprise,-23571.31
+2025-09-01,6100,R&D,Spain,Enterprise,-15714.2
+2025-09-01,6200,G&A,Spain,Enterprise,-13095.17
+2025-10-01,4000,Revenue,DACH,Online,257602.49
+2025-10-01,5000,COGS,DACH,Online,-99840.76
+2025-10-01,6000,Sales & Marketing,DACH,Online,-30111.84
+2025-10-01,6100,R&D,DACH,Online,-20074.56
+2025-10-01,6200,G&A,DACH,Online,-16728.8
+2025-10-01,4000,Revenue,DACH,Enterprise,243405.48
+2025-10-01,5000,COGS,DACH,Enterprise,-90056.4
+2025-10-01,6000,Sales & Marketing,DACH,Enterprise,-26353.12
+2025-10-01,6100,R&D,DACH,Enterprise,-17568.75
+2025-10-01,6200,G&A,DACH,Enterprise,-14640.62
+2025-10-01,4000,Revenue,DACH,Online,138581.95
+2025-10-01,5000,COGS,DACH,Online,-60917.73
+2025-10-01,6000,Sales & Marketing,DACH,Online,-37279.95
+2025-10-01,6100,R&D,DACH,Online,-24853.3
+2025-10-01,6200,G&A,DACH,Online,-20711.08
+2025-10-01,4000,Revenue,DACH,Enterprise,132203.02
+2025-10-01,5000,COGS,DACH,Enterprise,-59922.79
+2025-10-01,6000,Sales & Marketing,DACH,Enterprise,-35423.19
+2025-10-01,6100,R&D,DACH,Enterprise,-23615.46
+2025-10-01,6200,G&A,DACH,Enterprise,-19679.55
+2025-10-01,4000,Revenue,France,Online,201157.05
+2025-10-01,5000,COGS,France,Online,-77711.18
+2025-10-01,6000,Sales & Marketing,France,Online,-27606.38
+2025-10-01,6100,R&D,France,Online,-18404.25
+2025-10-01,6200,G&A,France,Online,-15336.88
+2025-10-01,4000,Revenue,France,Enterprise,185840.64
+2025-10-01,5000,COGS,France,Enterprise,-62784.57
+2025-10-01,6000,Sales & Marketing,France,Enterprise,-23591.53
+2025-10-01,6100,R&D,France,Enterprise,-15727.69
+2025-10-01,6200,G&A,France,Enterprise,-13106.41
+2025-10-01,4000,Revenue,France,Online,102809.36
+2025-10-01,5000,COGS,France,Online,-47366.45
+2025-10-01,6000,Sales & Marketing,France,Online,-29688.99
+2025-10-01,6100,R&D,France,Online,-19792.66
+2025-10-01,6200,G&A,France,Online,-16493.88
+2025-10-01,4000,Revenue,France,Enterprise,114274.75
+2025-10-01,5000,COGS,France,Enterprise,-55280.72
+2025-10-01,6000,Sales & Marketing,France,Enterprise,-27437.99
+2025-10-01,6100,R&D,France,Enterprise,-18292.0
+2025-10-01,6200,G&A,France,Enterprise,-15243.33
+2025-10-01,4000,Revenue,Italy,Online,162535.77
+2025-10-01,5000,COGS,Italy,Online,-63340.71
+2025-10-01,6000,Sales & Marketing,Italy,Online,-21760.94
+2025-10-01,6100,R&D,Italy,Online,-14507.29
+2025-10-01,6200,G&A,Italy,Online,-12089.41
+2025-10-01,4000,Revenue,Italy,Enterprise,152320.35
+2025-10-01,5000,COGS,Italy,Enterprise,-60885.91
+2025-10-01,6000,Sales & Marketing,Italy,Enterprise,-19733.34
+2025-10-01,6100,R&D,Italy,Enterprise,-13155.56
+2025-10-01,6200,G&A,Italy,Enterprise,-10962.97
+2025-10-01,4000,Revenue,Italy,Online,105400.0
+2025-10-01,5000,COGS,Italy,Online,-49911.96
+2025-10-01,6000,Sales & Marketing,Italy,Online,-23316.7
+2025-10-01,6100,R&D,Italy,Online,-15544.47
+2025-10-01,6200,G&A,Italy,Online,-12953.72
+2025-10-01,4000,Revenue,Italy,Enterprise,96740.68
+2025-10-01,5000,COGS,Italy,Enterprise,-45852.31
+2025-10-01,6000,Sales & Marketing,Italy,Enterprise,-23137.14
+2025-10-01,6100,R&D,Italy,Enterprise,-15424.76
+2025-10-01,6200,G&A,Italy,Enterprise,-12853.97
+2025-10-01,4000,Revenue,Spain,Online,169308.0
+2025-10-01,5000,COGS,Spain,Online,-61427.63
+2025-10-01,6000,Sales & Marketing,Spain,Online,-23022.23
+2025-10-01,6100,R&D,Spain,Online,-15348.16
+2025-10-01,6200,G&A,Spain,Online,-12790.13
+2025-10-01,4000,Revenue,Spain,Enterprise,166544.88
+2025-10-01,5000,COGS,Spain,Enterprise,-60103.96
+2025-10-01,6000,Sales & Marketing,Spain,Enterprise,-22635.47
+2025-10-01,6100,R&D,Spain,Enterprise,-15090.32
+2025-10-01,6200,G&A,Spain,Enterprise,-12575.26
+2025-10-01,4000,Revenue,Spain,Online,98522.56
+2025-10-01,5000,COGS,Spain,Online,-44918.27
+2025-10-01,6000,Sales & Marketing,Spain,Online,-26964.47
+2025-10-01,6100,R&D,Spain,Online,-17976.31
+2025-10-01,6200,G&A,Spain,Online,-14980.26
+2025-10-01,4000,Revenue,Spain,Enterprise,110974.15
+2025-10-01,5000,COGS,Spain,Enterprise,-47991.18
+2025-10-01,6000,Sales & Marketing,Spain,Enterprise,-27161.6
+2025-10-01,6100,R&D,Spain,Enterprise,-18107.73
+2025-10-01,6200,G&A,Spain,Enterprise,-15089.77
+2025-11-01,4000,Revenue,DACH,Online,260824.06
+2025-11-01,5000,COGS,DACH,Online,-101258.01
+2025-11-01,6000,Sales & Marketing,DACH,Online,-33728.85
+2025-11-01,6100,R&D,DACH,Online,-22485.9
+2025-11-01,6200,G&A,DACH,Online,-18738.25
+2025-11-01,4000,Revenue,DACH,Enterprise,241270.65
+2025-11-01,5000,COGS,DACH,Enterprise,-90941.25
+2025-11-01,6000,Sales & Marketing,DACH,Enterprise,-33908.34
+2025-11-01,6100,R&D,DACH,Enterprise,-22605.56
+2025-11-01,6200,G&A,DACH,Enterprise,-18837.97
+2025-11-01,4000,Revenue,DACH,Online,150852.08
+2025-11-01,5000,COGS,DACH,Online,-72807.96
+2025-11-01,6000,Sales & Marketing,DACH,Online,-35211.23
+2025-11-01,6100,R&D,DACH,Online,-23474.15
+2025-11-01,6200,G&A,DACH,Online,-19561.79
+2025-11-01,4000,Revenue,DACH,Enterprise,140490.27
+2025-11-01,5000,COGS,DACH,Enterprise,-61613.52
+2025-11-01,6000,Sales & Marketing,DACH,Enterprise,-34978.56
+2025-11-01,6100,R&D,DACH,Enterprise,-23319.04
+2025-11-01,6200,G&A,DACH,Enterprise,-19432.53
+2025-11-01,4000,Revenue,France,Online,224731.12
+2025-11-01,5000,COGS,France,Online,-85050.14
+2025-11-01,6000,Sales & Marketing,France,Online,-26308.98
+2025-11-01,6100,R&D,France,Online,-17539.32
+2025-11-01,6200,G&A,France,Online,-14616.1
+2025-11-01,4000,Revenue,France,Enterprise,175427.12
+2025-11-01,5000,COGS,France,Enterprise,-65857.82
+2025-11-01,6000,Sales & Marketing,France,Enterprise,-21203.61
+2025-11-01,6100,R&D,France,Enterprise,-14135.74
+2025-11-01,6200,G&A,France,Enterprise,-11779.78
+2025-11-01,4000,Revenue,France,Online,117283.81
+2025-11-01,5000,COGS,France,Online,-54482.52
+2025-11-01,6000,Sales & Marketing,France,Online,-32833.98
+2025-11-01,6100,R&D,France,Online,-21889.32
+2025-11-01,6200,G&A,France,Online,-18241.1
+2025-11-01,4000,Revenue,France,Enterprise,131812.74
+2025-11-01,5000,COGS,France,Enterprise,-59087.47
+2025-11-01,6000,Sales & Marketing,France,Enterprise,-30100.25
+2025-11-01,6100,R&D,France,Enterprise,-20066.83
+2025-11-01,6200,G&A,France,Enterprise,-16722.36
+2025-11-01,4000,Revenue,Italy,Online,178350.81
+2025-11-01,5000,COGS,Italy,Online,-67233.8
+2025-11-01,6000,Sales & Marketing,Italy,Online,-23506.8
+2025-11-01,6100,R&D,Italy,Online,-15671.2
+2025-11-01,6200,G&A,Italy,Online,-13059.33
+2025-11-01,4000,Revenue,Italy,Enterprise,160393.66
+2025-11-01,5000,COGS,Italy,Enterprise,-61303.72
+2025-11-01,6000,Sales & Marketing,Italy,Enterprise,-19980.27
+2025-11-01,6100,R&D,Italy,Enterprise,-13320.18
+2025-11-01,6200,G&A,Italy,Enterprise,-11100.15
+2025-11-01,4000,Revenue,Italy,Online,96620.65
+2025-11-01,5000,COGS,Italy,Online,-41462.58
+2025-11-01,6000,Sales & Marketing,Italy,Online,-26564.29
+2025-11-01,6100,R&D,Italy,Online,-17709.53
+2025-11-01,6200,G&A,Italy,Online,-14757.94
+2025-11-01,4000,Revenue,Italy,Enterprise,94288.2
+2025-11-01,5000,COGS,Italy,Enterprise,-42248.49
+2025-11-01,6000,Sales & Marketing,Italy,Enterprise,-22965.61
+2025-11-01,6100,R&D,Italy,Enterprise,-15310.41
+2025-11-01,6200,G&A,Italy,Enterprise,-12758.67
+2025-11-01,4000,Revenue,Spain,Online,194997.17
+2025-11-01,5000,COGS,Spain,Online,-74802.33
+2025-11-01,6000,Sales & Marketing,Spain,Online,-22794.38
+2025-11-01,6100,R&D,Spain,Online,-15196.25
+2025-11-01,6200,G&A,Spain,Online,-12663.55
+2025-11-01,4000,Revenue,Spain,Enterprise,181649.33
+2025-11-01,5000,COGS,Spain,Enterprise,-74763.9
+2025-11-01,6000,Sales & Marketing,Spain,Enterprise,-22735.28
+2025-11-01,6100,R&D,Spain,Enterprise,-15156.85
+2025-11-01,6200,G&A,Spain,Enterprise,-12630.71
+2025-11-01,4000,Revenue,Spain,Online,118195.86
+2025-11-01,5000,COGS,Spain,Online,-57305.98
+2025-11-01,6000,Sales & Marketing,Spain,Online,-29146.6
+2025-11-01,6100,R&D,Spain,Online,-19431.07
+2025-11-01,6200,G&A,Spain,Online,-16192.56
+2025-11-01,4000,Revenue,Spain,Enterprise,105260.6
+2025-11-01,5000,COGS,Spain,Enterprise,-49679.52
+2025-11-01,6000,Sales & Marketing,Spain,Enterprise,-25310.22
+2025-11-01,6100,R&D,Spain,Enterprise,-16873.48
+2025-11-01,6200,G&A,Spain,Enterprise,-14061.23
+2025-12-01,4000,Revenue,DACH,Online,256893.93
+2025-12-01,5000,COGS,DACH,Online,-101219.92
+2025-12-01,6000,Sales & Marketing,DACH,Online,-29788.41
+2025-12-01,6100,R&D,DACH,Online,-19858.94
+2025-12-01,6200,G&A,DACH,Online,-16549.12
+2025-12-01,4000,Revenue,DACH,Enterprise,238081.01
+2025-12-01,5000,COGS,DACH,Enterprise,-96677.86
+2025-12-01,6000,Sales & Marketing,DACH,Enterprise,-32416.74
+2025-12-01,6100,R&D,DACH,Enterprise,-21611.16
+2025-12-01,6200,G&A,DACH,Enterprise,-18009.3
+2025-12-01,4000,Revenue,DACH,Online,179725.24
+2025-12-01,5000,COGS,DACH,Online,-81697.08
+2025-12-01,6000,Sales & Marketing,DACH,Online,-33702.82
+2025-12-01,6100,R&D,DACH,Online,-22468.55
+2025-12-01,6200,G&A,DACH,Online,-18723.79
+2025-12-01,4000,Revenue,DACH,Enterprise,147836.07
+2025-12-01,5000,COGS,DACH,Enterprise,-68306.27
+2025-12-01,6000,Sales & Marketing,DACH,Enterprise,-33963.27
+2025-12-01,6100,R&D,DACH,Enterprise,-22642.18
+2025-12-01,6200,G&A,DACH,Enterprise,-18868.48
+2025-12-01,4000,Revenue,France,Online,234964.58
+2025-12-01,5000,COGS,France,Online,-87588.83
+2025-12-01,6000,Sales & Marketing,France,Online,-27482.79
+2025-12-01,6100,R&D,France,Online,-18321.86
+2025-12-01,6200,G&A,France,Online,-15268.22
+2025-12-01,4000,Revenue,France,Enterprise,188136.47
+2025-12-01,5000,COGS,France,Enterprise,-73186.28
+2025-12-01,6000,Sales & Marketing,France,Enterprise,-24306.04
+2025-12-01,6100,R&D,France,Enterprise,-16204.03
+2025-12-01,6200,G&A,France,Enterprise,-13503.36
+2025-12-01,4000,Revenue,France,Online,126061.48
+2025-12-01,5000,COGS,France,Online,-57393.7
+2025-12-01,6000,Sales & Marketing,France,Online,-29262.4
+2025-12-01,6100,R&D,France,Online,-19508.26
+2025-12-01,6200,G&A,France,Online,-16256.89
+2025-12-01,4000,Revenue,France,Enterprise,118054.88
+2025-12-01,5000,COGS,France,Enterprise,-58487.56
+2025-12-01,6000,Sales & Marketing,France,Enterprise,-26787.36
+2025-12-01,6100,R&D,France,Enterprise,-17858.24
+2025-12-01,6200,G&A,France,Enterprise,-14881.86
+2025-12-01,4000,Revenue,Italy,Online,184263.49
+2025-12-01,5000,COGS,Italy,Online,-62290.45
+2025-12-01,6000,Sales & Marketing,Italy,Online,-21095.15
+2025-12-01,6100,R&D,Italy,Online,-14063.44
+2025-12-01,6200,G&A,Italy,Online,-11719.53
+2025-12-01,4000,Revenue,Italy,Enterprise,167316.65
+2025-12-01,5000,COGS,Italy,Enterprise,-61285.24
+2025-12-01,6000,Sales & Marketing,Italy,Enterprise,-22938.13
+2025-12-01,6100,R&D,Italy,Enterprise,-15292.09
+2025-12-01,6200,G&A,Italy,Enterprise,-12743.41
+2025-12-01,4000,Revenue,Italy,Online,111089.64
+2025-12-01,5000,COGS,Italy,Online,-53963.89
+2025-12-01,6000,Sales & Marketing,Italy,Online,-25369.62
+2025-12-01,6100,R&D,Italy,Online,-16913.08
+2025-12-01,6200,G&A,Italy,Online,-14094.23
+2025-12-01,4000,Revenue,Italy,Enterprise,102227.83
+2025-12-01,5000,COGS,Italy,Enterprise,-46843.25
+2025-12-01,6000,Sales & Marketing,Italy,Enterprise,-22956.97
+2025-12-01,6100,R&D,Italy,Enterprise,-15304.65
+2025-12-01,6200,G&A,Italy,Enterprise,-12753.87
+2025-12-01,4000,Revenue,Spain,Online,218419.28
+2025-12-01,5000,COGS,Spain,Online,-72866.37
+2025-12-01,6000,Sales & Marketing,Spain,Online,-20204.91
+2025-12-01,6100,R&D,Spain,Online,-13469.94
+2025-12-01,6200,G&A,Spain,Online,-11224.95
+2025-12-01,4000,Revenue,Spain,Enterprise,174133.76
+2025-12-01,5000,COGS,Spain,Enterprise,-66221.42
+2025-12-01,6000,Sales & Marketing,Spain,Enterprise,-23077.41
+2025-12-01,6100,R&D,Spain,Enterprise,-15384.94
+2025-12-01,6200,G&A,Spain,Enterprise,-12820.78
+2025-12-01,4000,Revenue,Spain,Online,122172.17
+2025-12-01,5000,COGS,Spain,Online,-55260.31
+2025-12-01,6000,Sales & Marketing,Spain,Online,-28909.12
+2025-12-01,6100,R&D,Spain,Online,-19272.75
+2025-12-01,6200,G&A,Spain,Online,-16060.62
+2025-12-01,4000,Revenue,Spain,Enterprise,114675.67
+2025-12-01,5000,COGS,Spain,Enterprise,-53172.95
+2025-12-01,6000,Sales & Marketing,Spain,Enterprise,-26171.41
+2025-12-01,6100,R&D,Spain,Enterprise,-17447.6
+2025-12-01,6200,G&A,Spain,Enterprise,-14539.67

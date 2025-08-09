@@ -1,0 +1,11 @@
+SELECT 
+  date(strftime('%Y-%m-01', date)) AS month,
+  SUM(CASE WHEN account = '4000' THEN amount ELSE 0 END) AS revenue,
+  SUM(CASE WHEN account = '5000' THEN amount ELSE 0 END) AS cogs,
+  SUM(CASE WHEN account IN ('6000','6100','6200') THEN amount ELSE 0 END) AS opex,
+  (SUM(CASE WHEN account = '4000' THEN amount ELSE 0 END)
+ + SUM(CASE WHEN account = '5000' THEN amount ELSE 0 END)
+ + SUM(CASE WHEN account IN ('6000','6100','6200') THEN amount ELSE 0 END)) AS operating_income
+FROM gl_transactions
+GROUP BY month
+ORDER BY month;
