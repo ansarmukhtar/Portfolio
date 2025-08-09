@@ -4,7 +4,7 @@
 Hi, I’m Ansar Mukhtar.  
 I’m a finance and data analytics professional with a Master’s in International Business and hands-on experience in FP&A, controlling, and business analysis. Over the past few years, I’ve built financial models, dashboards, and analysis tools that turn raw data into clear, decision-ready insights.  
 
-This portfolio brings together a selection of my work — from budgeting and forecasting to SQL-driven financial reporting — to show how I approach real-world business problems.
+This portfolio brings together a selection of my work from budgeting and forecasting to SQL-driven financial reporting to show how I approach real world business problems.
 
 ---
 
