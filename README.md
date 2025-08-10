@@ -10,11 +10,15 @@ Hi, I’m Ansar Mukhtar, a finance and data analytics professional with a Master
 I create financial models, dashboards, and analytical tools that turn raw numbers into clear, actionable insights.  
 This portfolio presents a selection of my work, covering budgeting and forecasting, Excel-based modeling, and SQL-driven financial reporting.
 
+🔗 **Live Portfolio:** [GitHub Repository](https://github.com/ansarmukhtar/Portfolio)
+
+
 ---
 
 ## 📂 Projects
 
-### 1. Budget vs Actuals Dashboard  
+### [1. Budget vs Actuals Dashboard](Projects/bva_powerbi)
+ 
 **Tools:** Power BI, DAX, Excel, SQL  
 
 This interactive dashboard tracks revenue, costs, and variances by region, business unit, and product category.  
@@ -28,7 +32,8 @@ This dashboard started from clean CSVs for budget versus actuals and a calendar 
 
 ---
 
-### 2. Driver-Based Cash-Flow Model  
+### [2. Driver-Based Cash-Flow Model](Projects/cashflow_excel)
+ 
 **Tools:** Excel (Formulas, Scenario Analysis)  
 
 A 12-month cash-flow forecast that uses growth rates, COGS percentages, and working-capital assumptions such as DSO, DPO, and inventory days.  
@@ -44,7 +49,8 @@ This model began with a simple historical monthly P&L and key working capital me
 
 ---
 
-### 3. SQL Finance Mart  
+### [3. SQL Finance Mart](Projects/sql_finance_mart)
+  
 **Tools:** SQLite, SQL, Data Modeling  
 
 A small but complete database designed for finance analytics, containing tables for orders, customers, products, and general ledger transactions.  
@@ -57,6 +63,26 @@ This project uses a small SQLite database containing orders, customers, products
 
 ---
 
+## How This Portfolio Was Built
+Each project started with structured datasets prepared in CSV or SQLite formats.  
+Data was checked for correct data types and cleaned where needed to ensure accuracy in analysis.  
+In Power BI, relationships were created between fact and calendar tables, and DAX measures were written for key financial metrics.  
+In Excel, formulas were set up to calculate forecasted cash flows based on growth, cost, and working capital drivers.  
+In SQL, queries were written to join tables, aggregate results, and produce reporting-ready views.  
+All files, screenshots, and descriptions were then organised into a clear GitHub structure so they can be easily reviewed and downloaded.
+
+
+## Data Sources
+All datasets used in this portfolio are synthetic or anonymised to protect confidentiality.  
+They were created to simulate realistic finance scenarios, including budget vs actuals data, general ledger transactions, and sales orders with customer and product details.  
+This ensures the focus is on demonstrating analytical and technical skills without exposing sensitive business information.
+
+## Open to Opportunities
+I am actively seeking roles in FP&A, Controlling, Business Analysis, and Data Analytics.  
+If my work aligns with your needs, feel free to connect via LinkedIn or email.  
+I am particularly interested in positions where I can combine financial expertise with data analytics to drive business insights and growth.
+
+
 ## 📬 Contact
 **Email:** ansarsandhu74@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/ansarmukhtar/  
@@ -65,3 +91,20 @@ This project uses a small SQLite database containing orders, customers, products
 ---
 
 *All datasets are anonymised or synthetic and used for demonstration purposes only.*
+
+## Usage
+- Click project links to view the folders in GitHub.  
+- Click image thumbnails to see a larger preview.  
+- Use the download button (top right in GitHub file view) to save PBIX, Excel, or SQL files locally.  
+- Power BI files require Power BI Desktop to open, Excel files require Microsoft Excel, and SQL files can be opened in any text editor or SQL client such as DB Browser for SQLite.
+
+
+## Skills Demonstrated
+- Financial Planning & Analysis (FP&A) and variance reporting  
+- Power BI modeling, DAX calculations, and KPI design  
+- Excel forecasting, scenario analysis, and driver-based modeling  
+- SQL querying, P&L generation, and revenue analysis  
+- Data cleaning, relationship modeling, and report documentation  
+- GitHub project structuring and technical communication
+
+
