@@ -34,6 +34,9 @@ The model outputs the monthly net cash position and ending balance.
 
 ![Cash-Flow Model](Assets/cashflow_model_screenshot.png)  
 
+This model began with a simple historical monthly P&L and key working capital metrics. I built a 12-month forecast driven by growth rate, COGS percentage, and DSO, DPO, and inventory days. Formulas calculate monthly revenue, COGS, operating expenses, changes in receivables, payables, and inventory, and ending cash balance. A scenario sheet allows quick adjustments to drivers so the forecast updates instantly, making it useful for planning different growth and payment-term situations.
+
+
 [Download Model](Projects/cashflow_excel/driver_based_cashflow_model.xlsx)
 
 ---
