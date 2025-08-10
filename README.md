@@ -47,6 +47,9 @@ This model began with a simple historical monthly P&L and key working capital me
 A small but complete database designed for finance analytics, containing tables for orders, customers, products, and general ledger transactions.  
 The project demonstrates producing P&L by month, identifying top customers, and calculating revenue by region, with queries and results that can feed directly into BI tools.
 
+This project uses a small SQLite database containing orders, customers, products, and general ledger transactions. I wrote queries to produce monthly revenue by region and a P&L by month, using account codes to separate revenue, COGS, and operating expenses. The outputs are exported to CSV so they can be used in BI tools or Excel. This setup simulates a finance data mart and shows how structured queries can quickly deliver reporting-ready datasets.
+
+
 [View Queries](Projects/sql_finance_mart)
 
 ---
