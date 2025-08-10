@@ -20,6 +20,9 @@ Users can filter results using dynamic slicers for time periods, regions, and pr
 
 ![BvA Dashboard](Assets/bva_dashboard_Screenshort.png)  
 
+This dashboard started from clean CSVs for budget versus actuals and a calendar table. I connected the data on the date column, set correct data types, and wrote simple DAX measures for revenue, COGS, gross margin, and revenue variance versus budget. The visuals show monthly trends, variance by region, and KPI cards that update with slicers for region, business unit, and product category. The result is a quick month‑end view where variances are easy to spot and discuss in reviews.
+
+
 ---
 
 ### 2. Driver-Based Cash-Flow Model  
